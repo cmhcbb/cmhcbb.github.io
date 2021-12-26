@@ -9,32 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Science, Univerisity of Electronic Science and Technology of China, 2015
+* Ph.D in Computer Science, Univerisity of California, Los Angeles, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Intern
+  * Rakuten Slice
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2019: Research Intern
+  * IBM Research
+
+* Summer 2020: Research Intern
+  * Microsoft
+
+Award
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ICLR 2021 Outstanding Paper Award
 
 Publications
 ======
@@ -54,6 +49,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Program committee/Reviewer of ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV, IJCAI, AAAI, etc.

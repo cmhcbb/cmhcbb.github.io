@@ -20,7 +20,7 @@ News
 Education
 ======
 * B.Eng. in Computer Science, Univerisity of Electronic Science and Technology of China, 2015
-* Ph.D in Computer Science, Univerisity of California, Los Angeles, 2021
+* Ph.D. in Computer Science, Univerisity of California, Los Angeles, 2021
 
 Work experience
 ======
@@ -43,15 +43,15 @@ Publications
 
 * **On the Robustness of Neural Network: Attacks and Defenses**, Minhao Cheng, *PhD Dissertation* [[PDF](https://escholarship.org/uc/item/3k2780bg)]
 
-* **Rethinking Architecture Selection in Differentiable NAS**, Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2021.* <span style="color:red">(Outstanding Paper Award)</span> *[[PDF](https://openreview.net/pdf?id=PKubaeJkw3)] [[code](https://github.com/ruocwang/darts-pt)]
+* **Rethinking Architecture Selection in Differentiable NAS**, Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2021.* <span style="color:red">(Outstanding Paper Award)</span> [[PDF](https://openreview.net/pdf?id=PKubaeJkw3)] [[code](https://github.com/ruocwang/darts-pt)]
 
-* **DrNAS: Dirichlet Neural Architecture Search**, Xiangning Chen*, Ruochen Wang*, Minhao Cheng*, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2021.* [[PDF](https://openreview.net/forum?id=9FWas6YbmB3)] [[code](https://github.com/xiangning-chen/DrNAS)]
+* **DrNAS: Dirichlet Neural Architecture Search**, Xiangning Chen\*, Ruochen Wang\*, Minhao Cheng\*, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2021.* [[PDF](https://openreview.net/forum?id=9FWas6YbmB3)] [[code](https://github.com/xiangning-chen/DrNAS)]
 
 * **Self-Progressing Robust Training**, Minhao Cheng, Pin-Yu Chen, Sijia Liu, Shiyu Chang, Cho-Jui Hsieh, Payel Das, *In AAAI Conference on Artificial Intelligence (AAAI), 2021.* [[PDF](https://arxiv.org/pdf/2012.11769.pdf)] [[code](https://github.com/IBM/SPROUT)]
 
 * **Evaluating and enhancing the robustness of neural network-based dependency parsing models with adversarial examples**, Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng, Xuanjing, *In Proceedings of Association for Computational Linguistics (ACL), 2020.* [[PDF](https://www.aclweb.org/anthology/2020.acl-main.590.pdf)]
 
-* **Sign-OPT: A Query-Efficient Hard-label Adversarial Attack**, Minhao Cheng*, Simranjit Singh*, Patrick H. Chen, Pin-Yu Chen, Sijia Liu, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2020.* [[PDF](https://openreview.net/pdf?id=SklTQCNtvS)] [[code](https://github.com/cmhcbb/attackbox)]
+* **Sign-OPT: A Query-Efficient Hard-label Adversarial Attack**, Minhao Cheng\*, Simranjit Singh\*, Patrick H. Chen, Pin-Yu Chen, Sijia Liu, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2020.* [[PDF](https://openreview.net/pdf?id=SklTQCNtvS)] [[code](https://github.com/cmhcbb/attackbox)]
 
 * **Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples**, Minhao Cheng, Jinfeng Yi, Pin-Yu Chen, Huan Zhang, Cho-Jui Hsieh, *In AAAI Conference on Artificial Intelligence (AAAI), 2020.* [[PDF](https://arxiv.org/pdf/1803.01128.pdf)] [[code](https://github.com/cmhcbb/Robustness_seq2seq)]
 

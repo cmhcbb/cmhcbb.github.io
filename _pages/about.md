@@ -19,15 +19,15 @@ News
 
 Education
 ======
-* B.Eng. in Computer Science, Univerisity of Electronic Science and Technology of China, 2015
 * Ph.D. in Computer Science, Univerisity of California, Los Angeles, 2021
+* B.Eng. in Computer Science, Univerisity of Electronic Science and Technology of China, 2015
+
 
 Work experience
 ======
-* Summer 2017: Research Intern, Rakuten Slice, San Mateo, CA
-* Summer 2019: Research Intern, IBM Research, Yorktown Heights, NY
 * Summer 2020: Research Intern, Microsoft, Redmond, WA
-
+* Summer 2019: Research Intern, IBM Research, Yorktown Heights, NY
+* Summer 2017: Research Intern, Rakuten Slice, San Mateo, CA
 Award
 ======
 * ICLR 2021 Outstanding Paper Award
@@ -36,6 +36,7 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **Concurrent Adversarial Learning for Large-Batch Training**, Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You, *To appear in International Conference on Learning Representations (ICLR), 2022*
 
 * **A Review of Adversarial Attack and Defense for Classification Methods**, Yao Li, Minhao Cheng, Cho-Jui Hsieh, Thomas Lee, *In The American Statistician, 2021* [[PDF](https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.2006781?journalCode=utas20)]
 

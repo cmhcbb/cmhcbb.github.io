@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of Computer Science & Engineering at HKUST. I obtained my Ph.D. degree in the Department of Computer Science from the University of California, Los Angeles under the supervision of [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). My research focus is broadly on machine learning with a focus on machine learning robustness and AutoML.
+I am an assistant professor of Computer Science & Engineering at HKUST. I obtained my Ph.D. degree in the Department of Computer Science from the University of California, Los Angeles under the supervision of [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). My research interest is broadly on machine learning with a focus on machine learning robustness and AutoML.
 
 News
 =====

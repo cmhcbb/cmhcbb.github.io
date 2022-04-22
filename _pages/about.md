@@ -38,11 +38,13 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Concurrent Adversarial Learning for Large-Batch Training**, Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You, *To appear in International Conference on Learning Representations (ICLR), 2022*
+* **CAT: Customized Adversarial Training for Improved Robustness**, Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh, *To appear in International Joint Conference on Artificial Intelligence (IJCAI), 2022.* [[pdf](https://arxiv.org/pdf/2002.06789)]
 
-* **A Review of Adversarial Attack and Defense for Classification Methods**, Yao Li, Minhao Cheng, Cho-Jui Hsieh, Thomas Lee, *In The American Statistician, 2021* [[PDF](https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.2006781?journalCode=utas20)]
+* **Concurrent Adversarial Learning for Large-Batch Training**, Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You, *To appear in International Conference on Learning Representations (ICLR), 2022.*
 
-* **RANK-NOSH: Efficient Predictor-Based NAS via Non-Uniform Successive Halving**, Ruochen Wang, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Computer Vision (ICCV), 2021* [[PDF](https://arxiv.org/pdf/2108.08019.pdf)]
+* **A Review of Adversarial Attack and Defense for Classification Methods**, Yao Li, Minhao Cheng, Cho-Jui Hsieh, Thomas Lee, *In The American Statistician, 2021.* [[PDF](https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.2006781?journalCode=utas20)]
+
+* **RANK-NOSH: Efficient Predictor-Based NAS via Non-Uniform Successive Halving**, Ruochen Wang, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Computer Vision (ICCV), 2021.* [[PDF](https://arxiv.org/pdf/2108.08019.pdf)]
 
 * **On the Robustness of Neural Network: Attacks and Defenses**, Minhao Cheng, *PhD Dissertation* [[PDF](https://escholarship.org/uc/item/3k2780bg)]
 
@@ -81,8 +83,6 @@ Preprints
 * **Voting based ensemble improves robustness of defensive models**, Devvrit, Minhao Cheng, Cho-Jui Hsieh, Inderjit Dhillon, [[arXiv](https://arxiv.org/abs/2011.14031)]
 
 * **Adversarial Masking: Towards Understanding Robustness Trade-off for Generalization**, Minhao Cheng, Zhe Gan, Yu Cheng, Shuohang Wang, Cho-Jui Hsieh, Jingjing Liu, [[Link](https://openreview.net/pdf?id=LNtTXJ9XXr)]
-
-* **CAT: Customized Adversarial Training for Improved Robustness**, Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh [[arXiv](https://arxiv.org/pdf/2002.06789)]
 
 * **Fake Node Attacks on Graph Convolutional Networks**, Xiaoyun Wang, Minhao Cheng, Joe Eaton, Cho-Jui Hsieh, S.Felix Wu [[arXiv](https://arxiv.org/pdf/1810.10751)]
 

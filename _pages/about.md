@@ -38,7 +38,7 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **CAT: Customized Adversarial Training for Improved Robustness**, Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh, *To appear in International Joint Conference on Artificial Intelligence (IJCAI), 2022.* [[pdf](https://arxiv.org/pdf/2002.06789)]
+* **CAT: Customized Adversarial Training for Improved Robustness**, Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh, *In International Joint Conference on Artificial Intelligence (IJCAI), 2022.* [[pdf](https://arxiv.org/pdf/2002.06789)]
 
 * **Concurrent Adversarial Learning for Large-Batch Training**, Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You, *To appear in International Conference on Learning Representations (ICLR), 2022.* [[pdf](https://openreview.net/pdf?id=rw1mZl_ss3L)]
 
@@ -89,3 +89,8 @@ Preprints
 * **Enhancing Certifiable Robustness via a Deep Model Ensemble**, Huan Zhang, Minhao Cheng, Cho-Jui Hsieh [[arXiv](https://arxiv.org/pdf/1910.14655.pdf)]
 
 * **Stochastic Zeroth-order Optimization via Variance Reduction method**, Liu Liu, Minhao Cheng, Cho-Jui Hsieh, Dacheng Tao [[arXiv](https://arxiv.org/pdf/1805.11811.pdf)]
+
+Teaching
+======
+<!-- [Spring 2022] -->
+[Fall 2022] [COMP 5212: Machine Learning]({{ site.url }}/teaching/comp5212f22.html)

@@ -38,9 +38,14 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+
+* **Random Sharpness-Aware Minimization**, Yong Liu, Siqi Mai, Minhao Cheng, Xiangning Chen, Cho-Jui Hsieh, Yang You, *To apper in Advances in Neural Information Processing Systems (NeurIPS), 2022.* 
+
+* **Efficient Non-Parametric Optimizer Search for Diverse Tasks**, Ruochen Wang\*, Yuanhao Xiong\*, Minhao Cheng, Cho-Jui Hsieh, *To apper in Advances in Neural Information Processing Systems (NeurIPS), 2022.* 
+
 * **CAT: Customized Adversarial Training for Improved Robustness**, Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh, *In International Joint Conference on Artificial Intelligence (IJCAI), 2022.* [[pdf](https://arxiv.org/pdf/2002.06789)]
 
-* **Concurrent Adversarial Learning for Large-Batch Training**, Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You, *To appear in International Conference on Learning Representations (ICLR), 2022.* [[pdf](https://openreview.net/pdf?id=rw1mZl_ss3L)]
+* **Concurrent Adversarial Learning for Large-Batch Training**, Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You, *In International Conference on Learning Representations (ICLR), 2022.* [[pdf](https://openreview.net/pdf?id=rw1mZl_ss3L)]
 
 * **A Review of Adversarial Attack and Defense for Classification Methods**, Yao Li, Minhao Cheng, Cho-Jui Hsieh, Thomas Lee, *In The American Statistician, 2021.* [[PDF](https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.2006781?journalCode=utas20)]
 

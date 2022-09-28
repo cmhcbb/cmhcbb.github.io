@@ -41,7 +41,7 @@ Publications
 
 * **Random Sharpness-Aware Minimization**, Yong Liu, Siqi Mai, Minhao Cheng, Xiangning Chen, Cho-Jui Hsieh, Yang You, *To apper in Advances in Neural Information Processing Systems (NeurIPS), 2022.* 
 
-* **Efficient Non-Parametric Optimizer Search for Diverse Tasks**, Ruochen Wang\*, Yuanhao Xiong\*, Minhao Cheng, Cho-Jui Hsieh, *To apper in Advances in Neural Information Processing Systems (NeurIPS), 2022.* 
+* **Efficient Non-Parametric Optimizer Search for Diverse Tasks**, Ruochen Wang, Yuanhao Xiong, Minhao Cheng, Cho-Jui Hsieh, *To apper in Advances in Neural Information Processing Systems (NeurIPS), 2022.* 
 
 * **CAT: Customized Adversarial Training for Improved Robustness**, Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh, *In International Joint Conference on Artificial Intelligence (IJCAI), 2022.* [[pdf](https://arxiv.org/pdf/2002.06789)]
 
@@ -98,4 +98,5 @@ Preprints
 Teaching
 ======
 <!-- [Spring 2022] -->
-[Fall 2022] [COMP 5212: Machine Learning]({{ site.url }}/teaching/comp5212f22.html)
+<!-- [Fall 2022] [COMP 5212: Machine Learning]({{ site.url }}/teaching/comp5212f22.html) -->
+[Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng//teaching/comp5212f22.html)

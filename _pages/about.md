@@ -34,6 +34,10 @@ Award
 ======
 * ICLR 2021 Outstanding Paper Award
 
+Talks
+======
+* [Towards Trustworthy Machine Learning: Training-time and Test-time Integrity](https://cse.hkust.edu.hk/~minhaocheng/files/CS_seminar.pdf)
+
 Publications
 ======
 <!-- [→ Full list](/projects/) -->
@@ -47,6 +51,8 @@ Publications
 
 * **Concurrent Adversarial Learning for Large-Batch Training**, Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You, *In International Conference on Learning Representations (ICLR), 2022.* [[pdf](https://openreview.net/pdf?id=rw1mZl_ss3L)]
 
+* **Foreseeing private car transfer between urban regions with multiple graph-based generative adversarial networks**, Chenxi Liu, Zhu Xiao, Dong Wang, Minhao Cheng, Hongyang Chen, Jiawei Cai. *In World Wide Web Journal, 2022.* [[pdf](https://link.springer.com/article/10.1007/s11280-021-00995-z)] 
+
 * **A Review of Adversarial Attack and Defense for Classification Methods**, Yao Li, Minhao Cheng, Cho-Jui Hsieh, Thomas Lee, *In The American Statistician, 2021.* [[PDF](https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.2006781?journalCode=utas20)]
 
 * **RANK-NOSH: Efficient Predictor-Based NAS via Non-Uniform Successive Halving**, Ruochen Wang, Xiangning Chen, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Computer Vision (ICCV), 2021.* [[PDF](https://arxiv.org/pdf/2108.08019.pdf)]
@@ -59,7 +65,7 @@ Publications
 
 * **Self-Progressing Robust Training**, Minhao Cheng, Pin-Yu Chen, Sijia Liu, Shiyu Chang, Cho-Jui Hsieh, Payel Das, *In AAAI Conference on Artificial Intelligence (AAAI), 2021.* [[PDF](https://arxiv.org/pdf/2012.11769.pdf)] [[code](https://github.com/IBM/SPROUT)]
 
-* **Evaluating and enhancing the robustness of neural network-based dependency parsing models with adversarial examples**, Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng, Xuanjing, *In Proceedings of Association for Computational Linguistics (ACL), 2020.* [[PDF](https://www.aclweb.org/anthology/2020.acl-main.590.pdf)]
+* **Evaluating and enhancing the robustness of neural network-based dependency parsing models with adversarial examples**, Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng, Xuanjing Huang, *In Proceedings of Association for Computational Linguistics (ACL), 2020.* [[PDF](https://www.aclweb.org/anthology/2020.acl-main.590.pdf)]
 
 * **Sign-OPT: A Query-Efficient Hard-label Adversarial Attack**, Minhao Cheng\*, Simranjit Singh\*, Patrick H. Chen, Pin-Yu Chen, Sijia Liu, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2020.* [[PDF](https://openreview.net/pdf?id=SklTQCNtvS)] [[code](https://github.com/cmhcbb/attackbox)]
 
@@ -85,6 +91,8 @@ Publications
 
 Preprints
 ======
+* **FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**, Yuanhao Xiong, Ruochen Wang, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, [[arXiv](https://arxiv.org/abs/2011.14031)]
+
 * **Voting based ensemble improves robustness of defensive models**, Devvrit, Minhao Cheng, Cho-Jui Hsieh, Inderjit Dhillon, [[arXiv](https://arxiv.org/abs/2011.14031)]
 
 * **Adversarial Masking: Towards Understanding Robustness Trade-off for Generalization**, Minhao Cheng, Zhe Gan, Yu Cheng, Shuohang Wang, Cho-Jui Hsieh, Jingjing Liu, [[Link](https://openreview.net/pdf?id=LNtTXJ9XXr)]

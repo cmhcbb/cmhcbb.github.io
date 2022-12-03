@@ -45,7 +45,7 @@ Publications
 * **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022.*
 
 * **Defend Against Textual Backdoor Attacks By Token Substitution**,
-Xingling Li, Yao Li, Minhao Cheng * In NeurIPS Workshop on Robustness in Sequence Modeling, 2022.*
+Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence Modeling, 2022.*
 
 * **Identification of the Adversary from a Single Adversarial Example** Minhao Cheng, Rui Min, Haochen Sun, *In NeurIPS Workshop on Machine Learning Safety, 2022*
 

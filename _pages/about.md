@@ -116,6 +116,6 @@ Minhao Cheng, Zeyu Qin.
 
 Teaching
 ======
-<!-- [Spring 2022] -->
-<!-- [Fall 2022] [COMP 5212: Machine Learning]({{ site.url }}/teaching/comp5212f22.html) -->
-[Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng//teaching/comp5212f22.html)
+* [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp6211s23.html)
+<!-- * [Spring 2023] [COMP 6211I: Trustworthy Machine Learning] -->
+* [Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f22.html)

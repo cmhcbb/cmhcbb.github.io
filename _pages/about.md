@@ -42,16 +42,20 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022.*
+* **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Wei Wang, Minhao Cheng, *To appear In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
+
+* **Communication-Efficient Federated Learning via Dataset Distillation**, Yuanhao Xiong\*, Ruochen Wang\*, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, *To appear In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
+
+* **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022.* 
 
 * **Defend Against Textual Backdoor Attacks By Token Substitution**,
 Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence Modeling, 2022.*
 
-* **Identification of the Adversary from a Single Adversarial Example** Minhao Cheng, Rui Min, Haochen Sun, *In NeurIPS Workshop on Machine Learning Safety, 2022*
+* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, *In NeurIPS Workshop on Machine Learning Safety, 2022*
 
-* **Random Sharpness-Aware Minimization**, Yong Liu, Siqi Mai, Minhao Cheng, Xiangning Chen, Cho-Jui Hsieh, Yang You, *In Advances in Neural Information Processing Systems (NeurIPS), 2022.* 
+* **Random Sharpness-Aware Minimization**, Yong Liu, Siqi Mai, Minhao Cheng, Xiangning Chen, Cho-Jui Hsieh, Yang You, *In Advances in Neural Information Processing Systems (NeurIPS), 2022.* [[pdf](https://openreview.net/pdf?id=htUvh7xPoa)]
 
-* **Efficient Non-Parametric Optimizer Search for Diverse Tasks**, Ruochen Wang, Yuanhao Xiong, Minhao Cheng, Cho-Jui Hsieh, *In Advances in Neural Information Processing Systems (NeurIPS), 2022.* 
+* **Efficient Non-Parametric Optimizer Search for Diverse Tasks**, Ruochen Wang, Yuanhao Xiong, Minhao Cheng, Cho-Jui Hsieh, *In Advances in Neural Information Processing Systems (NeurIPS), 2022.* [[pdf](https://openreview.net/pdf?id=oNWqs_JRcDD)]
 
 * **CAT: Customized Adversarial Training for Improved Robustness**, Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh, *In International Joint Conference on Artificial Intelligence (IJCAI), 2022.* [[pdf](https://arxiv.org/pdf/2002.06789)]
 
@@ -102,7 +106,7 @@ Minhao Cheng, Zeyu Qin.
 
 * **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun. 
 
-* **FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**, Yuanhao Xiong, Ruochen Wang, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, [[arXiv](https://arxiv.org/abs/2011.14031)]
+<!-- * **FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**, Yuanhao Xiong, Ruochen Wang, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, [[arXiv](https://arxiv.org/abs/2011.14031)] -->
 
 * **Voting based ensemble improves robustness of defensive models**, Devvrit, Minhao Cheng, Cho-Jui Hsieh, Inderjit Dhillon, [[arXiv](https://arxiv.org/abs/2011.14031)]
 
@@ -117,5 +121,4 @@ Minhao Cheng, Zeyu Qin.
 Teaching
 ======
 * [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp6211s23.html)
-<!-- * [Spring 2023] [COMP 6211I: Trustworthy Machine Learning] -->
 * [Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f22.html)

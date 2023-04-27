@@ -37,12 +37,15 @@ Award
 Talks
 ======
 * [Towards Trustworthy Machine Learning: Training-time and Test-time Integrity](https://cse.hkust.edu.hk/~minhaocheng/files/CS_seminar.pdf)
+* [Introduction on ChatGPT](https://cse.hkust.edu.hk/~minhaocheng/files/CS_seminar_UG_chatgpt.pdf)
 
 Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Wei Wang, Minhao Cheng, *To appear In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
+* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, Pin-Yu Chen, *To appear in International Conference on Machine Learning (ICML), 2023.* (a short version appears in NeurIPS Workshop on Machine Learning Safety, 2022)
+
+* **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang, *To appear In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
 
 * **Communication-Efficient Federated Learning via Dataset Distillation**, Yuanhao Xiong\*, Ruochen Wang\*, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, *To appear In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
 
@@ -50,8 +53,6 @@ Publications
 
 * **Defend Against Textual Backdoor Attacks By Token Substitution**,
 Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence Modeling, 2022.*
-
-* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, *In NeurIPS Workshop on Machine Learning Safety, 2022*
 
 * **Random Sharpness-Aware Minimization**, Yong Liu, Siqi Mai, Minhao Cheng, Xiangning Chen, Cho-Jui Hsieh, Yang You, *In Advances in Neural Information Processing Systems (NeurIPS), 2022.* [[pdf](https://openreview.net/pdf?id=htUvh7xPoa)]
 

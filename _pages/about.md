@@ -43,11 +43,13 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, Pin-Yu Chen, *To appear in International Conference on Machine Learning (ICML), 2023.* (a short version appears in NeurIPS Workshop on Machine Learning Safety, 2022)
+* **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks**, Zeyu Qin, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng, *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023.*
 
-* **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang, *To appear In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
+* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, Pin-Yu Chen, *To appear in International Conference on Machine Learning (ICML), 2023.* (A short version appears in NeurIPS Workshop on Machine Learning Safety, 2022)
 
-* **Communication-Efficient Federated Learning via Dataset Distillation**, Yuanhao Xiong\*, Ruochen Wang\*, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, *To appear In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
+* **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang, *To appear in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
+
+* **Communication-Efficient Federated Learning via Dataset Distillation**, Yuanhao Xiong\*, Ruochen Wang\*, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, *To appear in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
 
 * **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022.* 
 
@@ -102,12 +104,12 @@ Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence
 
 Preprints
 ======
+* **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng.
+
+* **Backdoor Learning on Sequence to Sequence Models**, Lichang Chen, Minhao Cheng, Heng Huang.
+
 * **Class-wise Visual Explanations for Deep Neural Networks**,
 Minhao Cheng, Zeyu Qin.
-
-* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun. 
-
-<!-- * **FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**, Yuanhao Xiong, Ruochen Wang, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, [[arXiv](https://arxiv.org/abs/2011.14031)] -->
 
 * **Voting based ensemble improves robustness of defensive models**, Devvrit, Minhao Cheng, Cho-Jui Hsieh, Inderjit Dhillon, [[arXiv](https://arxiv.org/abs/2011.14031)]
 

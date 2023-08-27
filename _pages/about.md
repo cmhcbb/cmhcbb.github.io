@@ -43,13 +43,13 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks**, Zeyu Qin, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng, *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023.*
+* **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks**, Zeyu Qin, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng, *In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023.* [[pdf](https://arxiv.org/pdf/2302.01677.pdf)]
 
-* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, Pin-Yu Chen, *To appear in International Conference on Machine Learning (ICML), 2023.* (A short version appears in NeurIPS Workshop on Machine Learning Safety, 2022)
+* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, Pin-Yu Chen, *In International Conference on Machine Learning (ICML), 2023.* (A short version appears in NeurIPS Workshop on Machine Learning Safety, 2022) [[pdf](https://proceedings.mlr.press/v202/cheng23c/cheng23c.pdf)]
 
-* **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang, *To appear in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
+* **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang, *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.* [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Boosting_Accuracy_and_Robustness_of_Student_Models_via_Adaptive_Adversarial_CVPR_2023_paper.pdf)]
 
-* **Communication-Efficient Federated Learning via Dataset Distillation**, Yuanhao Xiong\*, Ruochen Wang\*, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, *To appear in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.*
+* **FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**, Yuanhao Xiong\*, Ruochen Wang\*, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.* [[pdf](https://arxiv.org/pdf/2207.09653.pdf)]
 
 * **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022.* 
 
@@ -104,9 +104,9 @@ Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence
 
 Preprints
 ======
-* **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng.
+* **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng. [[arXiv](https://arxiv.org/abs/2305.02423)]
 
-* **Backdoor Learning on Sequence to Sequence Models**, Lichang Chen, Minhao Cheng, Heng Huang.
+* **Backdoor Learning on Sequence to Sequence Models**, Lichang Chen, Minhao Cheng, Heng Huang. [[arXiv](https://arxiv.org/abs/2305.02424)]
 
 * **Class-wise Visual Explanations for Deep Neural Networks**,
 Minhao Cheng, Zeyu Qin.
@@ -123,5 +123,6 @@ Minhao Cheng, Zeyu Qin.
 
 Teaching
 ======
+* [Fall 2023] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f23.html)
 * [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp6211s23.html)
 * [Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f22.html)

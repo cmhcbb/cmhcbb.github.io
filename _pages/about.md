@@ -43,28 +43,32 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks**, Zeyu Qin, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng, *In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023.* [[pdf](https://arxiv.org/pdf/2302.01677.pdf)]
+* **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.* [[pdf](https://arxiv.org/abs/2305.02423)]
 
-* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, Pin-Yu Chen, *In International Conference on Machine Learning (ICML), 2023.* (A short version appears in NeurIPS Workshop on Machine Learning Safety, 2022) [[pdf](https://proceedings.mlr.press/v202/cheng23c/cheng23c.pdf)]
+* **Stable Backdoor Purification with Feature Shift Tuning**, Rui Min\*, Zeyu Qin\*, Li Shen, Minhao Cheng, *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2023.*
 
-* **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang, *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.* [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Boosting_Accuracy_and_Robustness_of_Student_Models_via_Adaptive_Adversarial_CVPR_2023_paper.pdf)]
+* **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks**, Zeyu Qin, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng, *In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023.* [[PDF](https://arxiv.org/pdf/2302.01677.pdf)]
 
-* **FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**, Yuanhao Xiong\*, Ruochen Wang\*, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.* [[pdf](https://arxiv.org/pdf/2207.09653.pdf)]
+* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, Pin-Yu Chen, *In International Conference on Machine Learning (ICML), 2023.* (A short version appears in NeurIPS Workshop on Machine Learning Safety, 2022) [[PDF](https://proceedings.mlr.press/v202/cheng23c/cheng23c.pdf)]
+
+* **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang, *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.* [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Boosting_Accuracy_and_Robustness_of_Student_Models_via_Adaptive_Adversarial_CVPR_2023_paper.pdf)]
+
+* **FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**, Yuanhao Xiong\*, Ruochen Wang\*, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.* [[PDF](https://arxiv.org/pdf/2207.09653.pdf)]
 
 * **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022.* 
 
 * **Defend Against Textual Backdoor Attacks By Token Substitution**,
 Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence Modeling, 2022.*
 
-* **Random Sharpness-Aware Minimization**, Yong Liu, Siqi Mai, Minhao Cheng, Xiangning Chen, Cho-Jui Hsieh, Yang You, *In Advances in Neural Information Processing Systems (NeurIPS), 2022.* [[pdf](https://openreview.net/pdf?id=htUvh7xPoa)]
+* **Random Sharpness-Aware Minimization**, Yong Liu, Siqi Mai, Minhao Cheng, Xiangning Chen, Cho-Jui Hsieh, Yang You, *In Advances in Neural Information Processing Systems (NeurIPS), 2022.* [[PDF](https://openreview.net/pdf?id=htUvh7xPoa)]
 
-* **Efficient Non-Parametric Optimizer Search for Diverse Tasks**, Ruochen Wang, Yuanhao Xiong, Minhao Cheng, Cho-Jui Hsieh, *In Advances in Neural Information Processing Systems (NeurIPS), 2022.* [[pdf](https://openreview.net/pdf?id=oNWqs_JRcDD)]
+* **Efficient Non-Parametric Optimizer Search for Diverse Tasks**, Ruochen Wang, Yuanhao Xiong, Minhao Cheng, Cho-Jui Hsieh, *In Advances in Neural Information Processing Systems (NeurIPS), 2022.* [[PDF](https://openreview.net/pdf?id=oNWqs_JRcDD)]
 
-* **CAT: Customized Adversarial Training for Improved Robustness**, Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh, *In International Joint Conference on Artificial Intelligence (IJCAI), 2022.* [[pdf](https://arxiv.org/pdf/2002.06789)]
+* **CAT: Customized Adversarial Training for Improved Robustness**, Minhao Cheng, Qi Lei, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh, *In International Joint Conference on Artificial Intelligence (IJCAI), 2022.* [[PDF](https://arxiv.org/pdf/2002.06789)]
 
-* **Concurrent Adversarial Learning for Large-Batch Training**, Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You, *In International Conference on Learning Representations (ICLR), 2022.* [[pdf](https://openreview.net/pdf?id=rw1mZl_ss3L)]
+* **Concurrent Adversarial Learning for Large-Batch Training**, Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You, *In International Conference on Learning Representations (ICLR), 2022.* [[PDF](https://openreview.net/pdf?id=rw1mZl_ss3L)]
 
-* **Foreseeing private car transfer between urban regions with multiple graph-based generative adversarial networks**, Chenxi Liu, Zhu Xiao, Dong Wang, Minhao Cheng, Hongyang Chen, Jiawei Cai. *In World Wide Web Journal, 2022.* [[pdf](https://link.springer.com/article/10.1007/s11280-021-00995-z)] 
+* **Foreseeing private car transfer between urban regions with multiple graph-based generative adversarial networks**, Chenxi Liu, Zhu Xiao, Dong Wang, Minhao Cheng, Hongyang Chen, Jiawei Cai. *In World Wide Web Journal, 2022.* [[PDF](https://link.springer.com/article/10.1007/s11280-021-00995-z)] 
 
 * **A Review of Adversarial Attack and Defense for Classification Methods**, Yao Li, Minhao Cheng, Cho-Jui Hsieh, Thomas Lee, *In The American Statistician, 2021.* [[PDF](https://www.tandfonline.com/doi/abs/10.1080/00031305.2021.2006781?journalCode=utas20)]
 
@@ -104,12 +108,11 @@ Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence
 
 Preprints
 ======
-* **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng. [[arXiv](https://arxiv.org/abs/2305.02423)]
+* **Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection**, Yize Cheng, Wenbin Hu, Minhao Cheng. [[arXiv](https://browse.arxiv.org/pdf/2307.10487)]
 
 * **Backdoor Learning on Sequence to Sequence Models**, Lichang Chen, Minhao Cheng, Heng Huang. [[arXiv](https://arxiv.org/abs/2305.02424)]
 
-* **Class-wise Visual Explanations for Deep Neural Networks**,
-Minhao Cheng, Zeyu Qin.
+* **Class-wise Visual Explanations for Deep Neural Networks**, Minhao Cheng, Zeyu Qin.
 
 * **Voting based ensemble improves robustness of defensive models**, Devvrit, Minhao Cheng, Cho-Jui Hsieh, Inderjit Dhillon, [[arXiv](https://arxiv.org/abs/2011.14031)]
 

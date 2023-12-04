@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of Computer Science & Engineering at HKUST. I obtained my Ph.D. degree in the Department of Computer Science from the University of California, Los Angeles under the supervision of [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). My research interest is broadly on machine learning with a focus on machine learning robustness and AutoML.
+I am an assistant professor of Computer Science & Engineering at HKUST. I obtained my Ph.D. degree in the Department of Computer Science from the University of California, Los Angeles under the supervision of [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). My research interest is broadly on machine learning with a focus on trustworthy machine learning and AutoML.
 
 News
 =====
@@ -39,17 +39,41 @@ Talks
 * [Towards Trustworthy Machine Learning: Training-time and Test-time Integrity](https://cse.hkust.edu.hk/~minhaocheng/files/CS_seminar.pdf)
 * [Introduction on ChatGPT](https://cse.hkust.edu.hk/~minhaocheng/files/CS_seminar_UG_chatgpt.pdf)
 
+Teaching
+======
+* [Fall 2023] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f23.html)
+* [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp6211s23.html)
+* [Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f22.html)
+
+Current Students
+======
+* [Zeyu Qin](https://alan-qin.github.io/) (PhD @ HKUST CSE, Fall 2022 - Present)
+* Sen Li (MPhil @ HKUST CSE, Fall 2022 - Present )
+* Rui Min ( PhD @ HKUST CSE, Spring 2023 - Present ) 
+* [Kuan Li](https://likuanppd.github.io/) (PhD @ HKUST CSE, Fall 2023 - Present)
+
+<!-- * Yize Cheng (UG @ HKUST, Fall 2022 - Present) 
+* Wenbin Hu (UG @ HKUST, Fall 2022 - Present) 
+* Liying Li (Research Intern, Summer 2023 - Present)
+* 
+
+
+Alumni
+======
+* [Jaechual Roh](https://www.jrohs.com/) (UG @ HKUST, Winter 2022 - Spring 2022, Now PhD student @ UMass Amherst)  -->
+
+
 Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.* [[pdf](https://arxiv.org/abs/2305.02423)]
+* **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.* [[PDF](https://arxiv.org/abs/2305.02423.pdf)] 
 
-* **Stable Backdoor Purification with Feature Shift Tuning**, Rui Min\*, Zeyu Qin\*, Li Shen, Minhao Cheng, *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2023.*
+* **Stable Backdoor Purification with Feature Shift Tuning**, Rui Min\*, Zeyu Qin\*, Li Shen, Minhao Cheng, *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2023.* [[PDF](https://arxiv.org/abs/2310.01875.pdf)] [[Code](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
 
-* **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks**, Zeyu Qin, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng, *In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023.* [[PDF](https://arxiv.org/pdf/2302.01677.pdf)]
+* **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks**, Zeyu Qin, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng, *In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023.* [[PDF](https://arxiv.org/pdf/2302.01677.pdf)] [[Code](https://github.com/alibaba/FederatedScope/tree/backdoor-bench)]
 
-* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, Pin-Yu Chen, *In International Conference on Machine Learning (ICML), 2023.* (A short version appears in NeurIPS Workshop on Machine Learning Safety, 2022) [[PDF](https://proceedings.mlr.press/v202/cheng23c/cheng23c.pdf)]
+* **Identification of the Adversary from a Single Adversarial Example**, Minhao Cheng, Rui Min, Haochen Sun, Pin-Yu Chen, *In International Conference on Machine Learning (ICML), 2023.* (A short version appears in NeurIPS Workshop on Machine Learning Safety, 2022) [[PDF](https://proceedings.mlr.press/v202/cheng23c/cheng23c.pdf)] [[Code](https://github.com/rmin2000/adv_tracing.git)]
 
 * **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang, *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.* [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Boosting_Accuracy_and_Robustness_of_Student_Models_via_Adaptive_Adversarial_CVPR_2023_paper.pdf)]
 
@@ -76,23 +100,23 @@ Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence
 
 * **On the Robustness of Neural Network: Attacks and Defenses**, Minhao Cheng, *PhD Dissertation* [[PDF](https://escholarship.org/uc/item/3k2780bg)]
 
-* **Rethinking Architecture Selection in Differentiable NAS**, Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2021.* <span style="color:red">(Outstanding Paper Award)</span> [[PDF](https://openreview.net/pdf?id=PKubaeJkw3)] [[code](https://github.com/ruocwang/darts-pt)]
+* **Rethinking Architecture Selection in Differentiable NAS**, Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2021.* <span style="color:red">(Outstanding Paper Award)</span> [[PDF](https://openreview.net/pdf?id=PKubaeJkw3)] [[Code](https://github.com/ruocwang/darts-pt)]
 
-* **DrNAS: Dirichlet Neural Architecture Search**, Xiangning Chen\*, Ruochen Wang\*, Minhao Cheng\*, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2021.* [[PDF](https://openreview.net/forum?id=9FWas6YbmB3)] [[code](https://github.com/xiangning-chen/DrNAS)]
+* **DrNAS: Dirichlet Neural Architecture Search**, Xiangning Chen\*, Ruochen Wang\*, Minhao Cheng\*, Xiaocheng Tang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2021.* [[PDF](https://openreview.net/forum?id=9FWas6YbmB3)] [[Code](https://github.com/xiangning-chen/DrNAS)]
 
-* **Self-Progressing Robust Training**, Minhao Cheng, Pin-Yu Chen, Sijia Liu, Shiyu Chang, Cho-Jui Hsieh, Payel Das, *In AAAI Conference on Artificial Intelligence (AAAI), 2021.* [[PDF](https://arxiv.org/pdf/2012.11769.pdf)] [[code](https://github.com/IBM/SPROUT)]
+* **Self-Progressing Robust Training**, Minhao Cheng, Pin-Yu Chen, Sijia Liu, Shiyu Chang, Cho-Jui Hsieh, Payel Das, *In AAAI Conference on Artificial Intelligence (AAAI), 2021.* [[PDF](https://arxiv.org/pdf/2012.11769.pdf)] [[Code](https://github.com/IBM/SPROUT)]
 
 * **Evaluating and enhancing the robustness of neural network-based dependency parsing models with adversarial examples**, Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng, Xuanjing Huang, *In Proceedings of Association for Computational Linguistics (ACL), 2020.* [[PDF](https://www.aclweb.org/anthology/2020.acl-main.590.pdf)]
 
-* **Sign-OPT: A Query-Efficient Hard-label Adversarial Attack**, Minhao Cheng\*, Simranjit Singh\*, Patrick H. Chen, Pin-Yu Chen, Sijia Liu, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2020.* [[PDF](https://openreview.net/pdf?id=SklTQCNtvS)] [[code](https://github.com/cmhcbb/attackbox)]
+* **Sign-OPT: A Query-Efficient Hard-label Adversarial Attack**, Minhao Cheng\*, Simranjit Singh\*, Patrick H. Chen, Pin-Yu Chen, Sijia Liu, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2020.* [[PDF](https://openreview.net/pdf?id=SklTQCNtvS)] [[Code](https://github.com/cmhcbb/attackbox)]
 
-* **Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples**, Minhao Cheng, Jinfeng Yi, Pin-Yu Chen, Huan Zhang, Cho-Jui Hsieh, *In AAAI Conference on Artificial Intelligence (AAAI), 2020.* [[PDF](https://arxiv.org/pdf/1803.01128.pdf)] [[code](https://github.com/cmhcbb/Robustness_seq2seq)]
+* **Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples**, Minhao Cheng, Jinfeng Yi, Pin-Yu Chen, Huan Zhang, Cho-Jui Hsieh, *In AAAI Conference on Artificial Intelligence (AAAI), 2020.* [[PDF](https://arxiv.org/pdf/1803.01128.pdf)] [[Code](https://github.com/cmhcbb/Robustness_seq2seq)]
 
 * **On the Robustness of Self-Attentive Models**, Yu-Lun Hsieh, Minhao Cheng, Da-Cheng Juan, Wei Wei, Wen-Lian Hsu, Cho-Jui Hsieh, *In Proceedings of Association for Computational Linguistics (ACL), 2019.* [[PDF](https://www.aclweb.org/anthology/P19-1147.pdf)]
 
-* **Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent**, Minhao Cheng, Wei Wei, Cho-Jui Hsieh, *In Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019.* [[PDF](https://www.aclweb.org/anthology/N19-1336.pdf)] [[code](https://github.com/cmhcbb/Robustness-of-Dialogue-systems)]
+* **Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent**, Minhao Cheng, Wei Wei, Cho-Jui Hsieh, *In Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019.* [[PDF](https://www.aclweb.org/anthology/N19-1336.pdf)] [[Code](https://github.com/cmhcbb/Robustness-of-Dialogue-systems)]
 
-* **Query-Efficient Hard-label Black-box Attack:An Optimization-based Approach**, Minhao Cheng, Thong Le, Pin-Yu Chen, Jinfeng Yi, Huan Zhang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2019.* [[PDF](https://openreview.net/pdf?id=rJlk6iRqKX)] [[code](https://github.com/cmhcbb/attackbox)]
+* **Query-Efficient Hard-label Black-box Attack:An Optimization-based Approach**, Minhao Cheng, Thong Le, Pin-Yu Chen, Jinfeng Yi, Huan Zhang, Cho-Jui Hsieh, *In International Conference on Learning Representations (ICLR), 2019.* [[PDF](https://openreview.net/pdf?id=rJlk6iRqKX)] [[Code](https://github.com/cmhcbb/attackbox)]
 
 * **Fast Training for Large-Scale One-versus-All Linear Classifiers using Tree-Structured Initialization**, Huang Fang, Minhao Cheng, Cho-Jui Hsieh, Michael Friedlander, *In SIAM International Conference on Data Mining (SDM), 2019.* [[PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.32)]
 
@@ -124,8 +148,5 @@ Preprints
 
 * **Stochastic Zeroth-order Optimization via Variance Reduction method**, Liu Liu, Minhao Cheng, Cho-Jui Hsieh, Dacheng Tao [[arXiv](https://arxiv.org/pdf/1805.11811.pdf)]
 
-Teaching
-======
-* [Fall 2023] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f23.html)
-* [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp6211s23.html)
-* [Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f22.html)
+
+

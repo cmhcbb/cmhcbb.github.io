@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am an assistant professor of Computer Science & Engineering at HKUST. I obtained my Ph.D. degree in the Department of Computer Science from the University of California, Los Angeles under the supervision of [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/). My research interest is broadly on machine learning with a focus on trustworthy machine learning and AutoML.
+I am an assistant professor in the College of Information Sciences and Technology at Penn State University. I obtained my Ph.D. degree in the Department of Computer Science from the University of California, Los Angeles under the supervision of [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/).  Before joining Penn State, I was an assistant professor of Computer Science & Engineering at HKUST. My research interest is broadly on machine learning with a focus on trustworthy machine learning and AutoML.
 
 News
 =====
-* [August 2021] <span style="color:blue"> I'm looking for highly motivated students to join my lab in HKUST CSE. Please email me if you are interested. </span>
-* [August 2021] I will join Department of Computer Science and Engineering at Hong Kong Unverisity of Science and Technology (HKUST) in Winter 2022.
+<!-- * [Janaury 2023] <span style="color:blue"> I'm always looking for highly motivated students to join my lab in HKUST CSE. Please email me if you are interested. </span> -->
+* [Janaury 2023] I will join College of Information Sciences and Technology at Penn State University in Spring 2023.
+* [August 2021] I joined Department of Computer Science and Engineering at Hong Kong Unverisity of Science and Technology (HKUST) in Winter 2022.
 * [April 2021] Our paper on Rethinking Architecture Selection in Differentiable NAS won the outstanding paper award at ICLR 2021.
 * [March 2021] I have passed my PhD defense: On the Robustness of Neural Network: Attacks and Defenses
 
@@ -67,9 +67,10 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.* [[PDF](https://arxiv.org/abs/2305.02423.pdf)] 
+* **CurvAGN: Curvature-based Adaptive Graph Neural Networks for Predicting Protein-Ligand Binding Affinity**, Jianqiu Wu, Hongyang Chen, Minhao Cheng, Haoyi Xiong. *In BMC Bioinformatics 24.* [[PDF](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05503-w)]
+* **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng. *In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.* [[PDF](https://arxiv.org/abs/2305.02423.pdf)] 
 
-* **Stable Backdoor Purification with Feature Shift Tuning**, Rui Min\*, Zeyu Qin\*, Li Shen, Minhao Cheng, *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2023.* [[PDF](https://arxiv.org/abs/2310.01875.pdf)] [[Code](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
+* **Stable Backdoor Purification with Feature Shift Tuning**, Rui Min\*, Zeyu Qin\*, Li Shen, Minhao Cheng, *In Neural Information Processing Systems (NeurIPS), 2023.* [[PDF](https://arxiv.org/abs/2310.01875.pdf)] [[Code](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
 
 * **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks**, Zeyu Qin, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng, *In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023.* [[PDF](https://arxiv.org/pdf/2302.01677.pdf)] [[Code](https://github.com/alibaba/FederatedScope/tree/backdoor-bench)]
 

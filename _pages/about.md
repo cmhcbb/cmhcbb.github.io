@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor in the College of Information Sciences and Technology at Penn State University. I obtained my Ph.D. degree in the Department of Computer Science from the University of California, Los Angeles under the supervision of [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/).  Before joining Penn State, I was an assistant professor of Computer Science & Engineering at HKUST. My research interest is broadly on machine learning with a focus on trustworthy machine learning and AutoML.
+I am an assistant professor in the College of Information Sciences and Technology at Penn State. I obtained my Ph.D. degree in the Department of Computer Science from the University of California, Los Angeles under the supervision of [Prof. Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/).  Before joining Penn State, I was an assistant professor of Computer Science & Engineering at HKUST. My research interest is broadly on machine learning with a focus on trustworthy machine learning and AutoML.
 
 News
 =====
@@ -41,6 +41,7 @@ Talks
 
 Teaching
 ======
+* [Spring 2024] [CYBER 362: Cybersecurity Analytics Studio]
 * [Fall 2023] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f23.html)
 * [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp6211s23.html)
 * [Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f22.html)
@@ -68,6 +69,7 @@ Publications
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
 * **CurvAGN: Curvature-based Adaptive Graph Neural Networks for Predicting Protein-Ligand Binding Affinity**, Jianqiu Wu, Hongyang Chen, Minhao Cheng, Haoyi Xiong. *In BMC Bioinformatics 24.* [[PDF](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05503-w)]
+
 * **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng. *In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.* [[PDF](https://arxiv.org/abs/2305.02423.pdf)] 
 
 * **Stable Backdoor Purification with Feature Shift Tuning**, Rui Min\*, Zeyu Qin\*, Li Shen, Minhao Cheng, *In Neural Information Processing Systems (NeurIPS), 2023.* [[PDF](https://arxiv.org/abs/2310.01875.pdf)] [[Code](https://github.com/AISafety-HKUST/stable_backdoor_purification)]

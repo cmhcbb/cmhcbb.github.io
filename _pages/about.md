@@ -11,7 +11,7 @@ I am an assistant professor in the College of Information Sciences and Technolog
 
 News
 =====
-<!-- * [Janaury 2023] <span style="color:blue"> I'm always looking for highly motivated students to join my lab in HKUST CSE. Please email me if you are interested. </span> -->
+* [Janaury 2024] <span style="color:blue"> I'm always looking for highly motivated students to join my group. Please email me if you are interested. </span>
 * [Janaury 2024] I will join College of Information Sciences and Technology at Penn State University in Spring 2024.
 * [August 2021] I joined Department of Computer Science and Engineering at Hong Kong Unverisity of Science and Technology (HKUST) in Winter 2022.
 * [April 2021] Our paper on Rethinking Architecture Selection in Differentiable NAS won the outstanding paper award at ICLR 2021.
@@ -25,6 +25,7 @@ Education
 
 Work experience
 ======
+* 2022.1-2023.12: Assistant Professor, HKUST, Hong Kong
 * Summer 2020: Research Intern, Microsoft, Redmond, WA
 * Summer 2019: Research Intern, IBM Research, Yorktown Heights, NY
 * Summer 2017: Research Intern, Rakuten Slice, San Mateo, CA
@@ -41,7 +42,7 @@ Talks
 
 Teaching
 ======
-* [Spring 2024] [CYBER 362: Cybersecurity Analytics Studio]
+* [Spring 2024] CYBER 362: Cybersecurity Analytics Studio
 * [Fall 2023] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f23.html)
 * [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp6211s23.html)
 * [Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f22.html)

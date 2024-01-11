@@ -43,9 +43,9 @@ Talks
 Teaching
 ======
 * [Spring 2024] CYBER 362: Cybersecurity Analytics Studio
-* [Fall 2023] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f23.html)
-* [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp6211s23.html)
-* [Fall 2022] [COMP 5212: Machine Learning](https://cse.hkust.edu.hk/~minhaocheng/teaching/comp5212f22.html)
+* [Fall 2023] [COMP 5212: Machine Learning](https://cmhcbb.github.io/teaching/comp5212f23.html)
+* [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cmhcbb.github.io/teaching/comp6211s23.html)
+* [Fall 2022] [COMP 5212: Machine Learning](https://cmhcbb.github.io/teaching/comp5212f22.html)
 
 Current Students
 ======

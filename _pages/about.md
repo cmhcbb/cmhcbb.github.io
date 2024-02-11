@@ -37,8 +37,9 @@ Award
 
 Talks
 ======
-* [Towards Trustworthy Machine Learning: Training-time and Test-time Integrity](https://cse.hkust.edu.hk/~minhaocheng/files/CS_seminar.pdf)
-* [Introduction on ChatGPT](https://cse.hkust.edu.hk/~minhaocheng/files/CS_seminar_UG_chatgpt.pdf)
+* [LLM security](https://cmhcbb.github.io/files/LLM_security.pdf)
+* [Towards Trustworthy Machine Learning: Training-time and Test-time Integrity](https://cmhcbb.github.io/files/CS_seminar.pdf)
+* [Introduction on ChatGPT](https://cmhcbb.github.io/files/CS_seminar_UG_chatgpt.pdf)
 
 Teaching
 ======
@@ -69,6 +70,8 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective**, Kuan Li, YiWen Chen, Yang Liu, Jin Wang, Qing He, Minhao Cheng, Xiang Ao. *To appear in International Conference on Learning Representations (ICLR), 2024.* 
+
 * **CurvAGN: Curvature-based Adaptive Graph Neural Networks for Predicting Protein-Ligand Binding Affinity**, Jianqiu Wu, Hongyang Chen, Minhao Cheng, Haoyi Xiong. *In BMC Bioinformatics 24.* [[PDF](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05503-w)]
 
 * **PTP: Boosting Stability and Performance of Prompt Tuning with Perturbation-Based Regularizer**, Lichang Chen, Heng Huang, Minhao Cheng. *In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.* [[PDF](https://arxiv.org/abs/2305.02423.pdf)] 

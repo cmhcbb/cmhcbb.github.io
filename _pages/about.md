@@ -70,7 +70,9 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective**, Kuan Li, YiWen Chen, Yang Liu, Jin Wang, Qing He, Minhao Cheng, Xiang Ao. *To appear in International Conference on Learning Representations (ICLR), 2024.* 
+* **One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**, Ruochen Wang\*, Sohyun An\*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh, *To appear in International Conference on Machine Learning (ICML), 2024.*
+
+* **Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective**, Kuan Li, YiWen Chen, Yang Liu, Jin Wang, Qing He, Minhao Cheng, Xiang Ao. *To appear in International Conference on Learning Representations (ICLR), 2024.* [[PDF](https://openreview.net/pdf?id=DCDT918ZkI)] [[CODE](https://github.com/likuanppd/GOOD-AT)]
 
 * **CurvAGN: Curvature-based Adaptive Graph Neural Networks for Predicting Protein-Ligand Binding Affinity**, Jianqiu Wu, Hongyang Chen, Minhao Cheng, Haoyi Xiong. *In BMC Bioinformatics 24.* [[PDF](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05503-w)]
 

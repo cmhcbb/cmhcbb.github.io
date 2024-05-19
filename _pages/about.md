@@ -43,6 +43,7 @@ Talks
 
 Teaching
 ======
+* [Fall 2024] CYBER 362: Cybersecurity Analytics Studio
 * [Spring 2024] CYBER 362: Cybersecurity Analytics Studio
 * [Fall 2023] [COMP 5212: Machine Learning](https://cmhcbb.github.io/teaching/comp5212f23.html)
 * [Spring 2023] [COMP 6211I: Trustworthy Machine Learning](https://cmhcbb.github.io/teaching/comp6211s23.html)
@@ -70,9 +71,11 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**, Ruochen Wang\*, Sohyun An\*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh, *To appear in International Conference on Machine Learning (ICML), 2024.*
+* **Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering**, Haosen Wang, Can Xu, Chenglong Shi, PengFei Zheng, Shiming Zhang, Minhao Cheng, Hongyang Chen. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024.*
 
-* **Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective**, Kuan Li, YiWen Chen, Yang Liu, Jin Wang, Qing He, Minhao Cheng, Xiang Ao. *To appear in International Conference on Learning Representations (ICLR), 2024.* [[PDF](https://openreview.net/pdf?id=DCDT918ZkI)] [[CODE](https://github.com/likuanppd/GOOD-AT)]
+* **One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**, Ruochen Wang\*, Sohyun An\*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh. *To appear in International Conference on Machine Learning (ICML), 2024.*
+
+* **Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective**, Kuan Li, Yiwen Chen, Yang Liu, Jin Wang, Qing He, Minhao Cheng, Xiang Ao. *In International Conference on Learning Representations (ICLR), 2024.* [[PDF](https://openreview.net/pdf?id=DCDT918ZkI)] [[CODE](https://github.com/likuanppd/GOOD-AT)]
 
 * **CurvAGN: Curvature-based Adaptive Graph Neural Networks for Predicting Protein-Ligand Binding Affinity**, Jianqiu Wu, Hongyang Chen, Minhao Cheng, Haoyi Xiong. *In BMC Bioinformatics 24.* [[PDF](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05503-w)]
 

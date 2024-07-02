@@ -11,7 +11,7 @@ I am an assistant professor in the College of Information Sciences and Technolog
 
 News
 =====
-* [July 2024] We initiate [TurningPoint AI](https://www.turningpoint-ai.com/), a AIGC Research Collaboration group across different institutes. Check our recent amazing research!
+* [July 2024] We initiate [TurningPoint AI](https://www.turningpoint-ai.com/), a AIGC Research Collaboration group across different institutes. Check our recent amazing progress!
 * [Janaury 2024] <span style="color:blue"> I'm always looking for highly motivated students to join my group. Please email me if you are interested. </span>
 * [Janaury 2024] I will join College of Information Sciences and Technology at Penn State University in Spring 2024.
 * [August 2021] I joined Department of Computer Science and Engineering at Hong Kong Unverisity of Science and Technology (HKUST) in Winter 2022.

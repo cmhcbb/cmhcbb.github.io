@@ -11,6 +11,7 @@ I am an assistant professor in the College of Information Sciences and Technolog
 
 News
 =====
+* [July 2024] We initiate [TurningPoint AI](https://www.turningpoint-ai.com/), a AIGC Research Collaboration group across different institutes. Check our recent amazing research!
 * [Janaury 2024] <span style="color:blue"> I'm always looking for highly motivated students to join my group. Please email me if you are interested. </span>
 * [Janaury 2024] I will join College of Information Sciences and Technology at Penn State University in Spring 2024.
 * [August 2021] I joined Department of Computer Science and Engineering at Hong Kong Unverisity of Science and Technology (HKUST) in Winter 2022.
@@ -53,7 +54,7 @@ Current Students
 ======
 * [Zeyu Qin](https://alan-qin.github.io/) (PhD @ HKUST CSE, Fall 2022 - Present)
 * Sen Li (MPhil @ HKUST CSE, Fall 2022 - Present )
-* Rui Min ( PhD @ HKUST CSE, Spring 2023 - Present ) 
+* [Rui Min](https://rmin2000.github.io/) ( PhD @ HKUST CSE, Spring 2023 - Present ) 
 * [Kuan Li](https://likuanppd.github.io/) (PhD @ HKUST CSE, Fall 2023 - Present)
 
 <!-- * Yize Cheng (UG @ HKUST, Fall 2022 - Present) 
@@ -71,6 +72,10 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **A Watermark-Conditioned Diffusion Model for IP Protection**, Rui Min, Sen Li, Hongyang Chen, Minhao Cheng. *To appear in European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2403.10893.pdf)]
+
+* **When and How do negative prompts take effect?**, Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh. *To appear in European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2406.02965.pdf)] [[CODE](https://github.com/banyuanhao/diffusion-negative-prompts)]
+
 * **Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering**, Haosen Wang, Can Xu, Chenglong Shi, PengFei Zheng, Shiming Zhang, Minhao Cheng, Hongyang Chen. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024.*
 
 * **One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**, Ruochen Wang\*, Sohyun An\*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh. *To appear in International Conference on Machine Learning (ICML), 2024.*

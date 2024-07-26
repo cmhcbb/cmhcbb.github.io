@@ -72,6 +72,8 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **Exploring Robustness of GNN against Universal Injection Attack From a Worst-case Perspective**, Dandan Ni, Sheng Zhang, Cong Deng, Han Liu, Gang Chen, Minhao Cheng and Hongyang Chen. *To appear in 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.*
+
 * **A Watermark-Conditioned Diffusion Model for IP Protection**, Rui Min, Sen Li, Hongyang Chen, Minhao Cheng. *To appear in European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2403.10893.pdf)]
 
 * **When and How do negative prompts take effect?**, Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh. *To appear in European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2406.02965.pdf)] [[CODE](https://github.com/banyuanhao/diffusion-negative-prompts)]

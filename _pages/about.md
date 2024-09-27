@@ -52,26 +52,35 @@ Teaching
 
 Current Students
 ======
+* [Zhimeng Guo](https://zhimeng.page/) (PhD @ Penn State IST, Spring 2024 - Present)
 * [Zeyu Qin](https://alan-qin.github.io/) (PhD @ HKUST CSE, Fall 2022 - Present)
-* Sen Li (MPhil @ HKUST CSE, Fall 2022 - Present )
-* [Rui Min](https://rmin2000.github.io/) ( PhD @ HKUST CSE, Spring 2023 - Present ) 
+* [Rui Min](https://rmin2000.github.io/) ( PhD @ HKUST CSE, Spring 2023 - Present) 
 * [Kuan Li](https://likuanppd.github.io/) (PhD @ HKUST CSE, Fall 2023 - Present)
-
-<!-- * Yize Cheng (UG @ HKUST, Fall 2022 - Present) 
-* Wenbin Hu (UG @ HKUST, Fall 2022 - Present) 
-* Liying Li (Research Intern, Summer 2023 - Present)
-* 
 
 
 Alumni
 ======
-* [Jaechual Roh](https://www.jrohs.com/) (UG @ HKUST, Winter 2022 - Spring 2022, Now PhD student @ UMass Amherst)  -->
+* Sen Li (MPhil @ HKUST CSE, Fall 2022 - Summer 2024)
+* Yize Cheng (UG @ HKUST, Fall 2022 - Winter 2023, Now PhD student @ University of Maryland) 
+* Wenbin Hu (UG @ HKUST, Fall 2022 - Winter 2023) 
+* Yihan Bai (UG @ HKUST, Summer 2023 - Summer 2024) 
+* Liaoyaqi Wang (Research Intern, Summer 2023 - Spring 2024, Now Master student @ Johns Hopkins University)
+* Liying Li (Research Intern, Summer 2023 - Spring 2024, Now MPhil student @ Hong Kong Polytechnic University (PolyU))
+* [Jaechual Roh](https://www.jrohs.com/) (UG @ HKUST, Winter 2022 - Spring 2022, Now PhD student @ UMass Amherst) 
 
 
 Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **Post-Robustness of Backdoor Purification**, Rui Min, Zeyu Qin, Nevin L. Zhang, Li Shen, Minhao Cheng. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2024.* <span style="color:orange">(Spotlight)</span>
+
+* **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLMs Jailbreakers**, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP) , 2024.*
+
+* **GuardEmb: Dynamic Watermark for Safeguarding Large Language Model Embedding Service Against Model Stealing Attack**, Liaoyaqi Wang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP) , 2024.*
+
+* **Where Am I From? Identifying Origin of LLM-generated Content**, Liying Li, Yihan Bai, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.*
+
 * **Exploring Robustness of GNN against Universal Injection Attack From a Worst-case Perspective**, Dandan Ni, Sheng Zhang, Cong Deng, Han Liu, Gang Chen, Minhao Cheng and Hongyang Chen. *To appear in 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.*
 
 * **A Watermark-Conditioned Diffusion Model for IP Protection**, Rui Min, Sen Li, Hongyang Chen, Minhao Cheng. *To appear in European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2403.10893.pdf)]

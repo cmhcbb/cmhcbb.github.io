@@ -73,11 +73,11 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Post-Robustness of Backdoor Purification**, Rui Min, Zeyu Qin, Nevin L. Zhang, Li Shen, Minhao Cheng. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2024.* <span style="color:orange">(Spotlight)</span>
+* **Post-Robustness of Backdoor Purification**, Rui Min\*, Zeyu Qin\*, Nevin L. Zhang, Li Shen, Minhao Cheng. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2024.* <span style="color:orange">(Spotlight)</span>
 
-* **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLMs Jailbreakers**, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP) , 2024.*
+* **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLMs Jailbreakers**, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.*
 
-* **GuardEmb: Dynamic Watermark for Safeguarding Large Language Model Embedding Service Against Model Stealing Attack**, Liaoyaqi Wang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP) , 2024.*
+* **GuardEmb: Dynamic Watermark for Safeguarding Large Language Model Embedding Service Against Model Stealing Attack**, Liaoyaqi Wang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.*
 
 * **Where Am I From? Identifying Origin of LLM-generated Content**, Liying Li, Yihan Bai, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.*
 

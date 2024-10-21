@@ -73,23 +73,24 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Post-Robustness of Backdoor Purification**, Rui Min\*, Zeyu Qin\*, Nevin L. Zhang, Li Shen, Minhao Cheng. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2024.* <span style="color:orange">(Spotlight)</span>
+* **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense**, Rui Min\*, Zeyu Qin\*, Nevin L. Zhang, Li Shen, Minhao Cheng. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2024.* <span style="color:orange">(Spotlight)</span>
+[[PDF](https://arxiv.org/pdf/2410.09838.pdf)] [[CODE](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
 
-* **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLMs Jailbreakers**, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.*
+* **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLMs Jailbreakers**, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.* [[PDF](https://arxiv.org/pdf/2402.16914.pdf)] [[CODE](https://github.com/xirui-li/DrAttack)]
 
-* **GuardEmb: Dynamic Watermark for Safeguarding Large Language Model Embedding Service Against Model Stealing Attack**, Liaoyaqi Wang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.*
+* **GuardEmb: Dynamic Watermark for Safeguarding Large Language Model Embedding Service Against Model Stealing Attack**, Liaoyaqi Wang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.* [[PDF](https://cmhcbb.github.io/files/GuardEmb.pdf)] [[CODE](https://github.com/Melodramass/Dynamic-Watermark)]
 
-* **Where Am I From? Identifying Origin of LLM-generated Content**, Liying Li, Yihan Bai, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.*
+* **Where Am I From? Identifying Origin of LLM-generated Content**, Liying Li, Yihan Bai, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.* [[PDF](https://cmhcbb.github.io/files/LLM_watermark.pdf)] [[CODE](https://github.com/kushr11/llm-identify)]
 
 * **Exploring Robustness of GNN against Universal Injection Attack From a Worst-case Perspective**, Dandan Ni, Sheng Zhang, Cong Deng, Han Liu, Gang Chen, Minhao Cheng and Hongyang Chen. *To appear in 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.*
 
-* **A Watermark-Conditioned Diffusion Model for IP Protection**, Rui Min, Sen Li, Hongyang Chen, Minhao Cheng. *To appear in European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2403.10893.pdf)]
+* **A Watermark-Conditioned Diffusion Model for IP Protection**, Rui Min, Sen Li, Hongyang Chen, Minhao Cheng. *In European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2403.10893.pdf)][[CODE](https://github.com/rmin2000/WaDiff)]
 
-* **When and How do negative prompts take effect?**, Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh. *To appear in European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2406.02965.pdf)] [[CODE](https://github.com/banyuanhao/diffusion-negative-prompts)]
+* **When and How do negative prompts take effect?**, Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Boqing Gong, Cho-Jui Hsieh. *In European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2406.02965.pdf)] [[CODE](https://github.com/banyuanhao/diffusion-negative-prompts)]
 
-* **Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering**, Haosen Wang, Can Xu, Chenglong Shi, PengFei Zheng, Shiming Zhang, Minhao Cheng, Hongyang Chen. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024.*
+* **Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering**, Haosen Wang, Can Xu, Chenglong Shi, PengFei Zheng, Shiming Zhang, Minhao Cheng, Hongyang Chen. *In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024.* [[PDF](https://dl.acm.org/doi/pdf/10.1145/3637528.3671716)]
 
-* **One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**, Ruochen Wang\*, Sohyun An\*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh. *To appear in International Conference on Machine Learning (ICML), 2024.*
+* **One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**, Ruochen Wang\*, Sohyun An\*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh. *To appear in International Conference on Machine Learning (ICML), 2024.* [[PDF](https://arxiv.org/abs/2407.00256)[CODE](https://github.com/ruocwang/mixture-of-prompts)]
 
 * **Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective**, Kuan Li, Yiwen Chen, Yang Liu, Jin Wang, Qing He, Minhao Cheng, Xiang Ao. *In International Conference on Learning Representations (ICLR), 2024.* [[PDF](https://openreview.net/pdf?id=DCDT918ZkI)] [[CODE](https://github.com/likuanppd/GOOD-AT)]
 

@@ -16,7 +16,7 @@ News
 * [Janaury 2024] I will join College of Information Sciences and Technology at Penn State University in Spring 2024.
 * [August 2021] I joined Department of Computer Science and Engineering at Hong Kong Unverisity of Science and Technology (HKUST) in Winter 2022.
 * [April 2021] Our paper on Rethinking Architecture Selection in Differentiable NAS won the outstanding paper award at ICLR 2021.
-* [March 2021] I have passed my PhD defense: On the Robustness of Neural Network: Attacks and Defenses
+* [March 2021] I have passed my PhD defense: On the Robustness of Neural Network: Attacks and Defenses.
 
 Education
 ======
@@ -38,6 +38,7 @@ Award
 
 Talks
 ======
+* [Post-Hoc Security in Machine Learning Systems](https://www.youtube.com/watch?v=e7WbjgaooOI&ab_channel=ISTatPENNSTATE)
 * [LLM security](https://cmhcbb.github.io/files/LLM_security.pdf)
 * [Towards Trustworthy Machine Learning: Training-time and Test-time Integrity](https://cmhcbb.github.io/files/CS_seminar.pdf)
 * [Introduction on ChatGPT](https://cmhcbb.github.io/files/CS_seminar_UG_chatgpt.pdf)
@@ -73,16 +74,20 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense**, Rui Min\*, Zeyu Qin\*, Nevin L. Zhang, Li Shen, Minhao Cheng. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2024.* <span style="color:orange">(Spotlight)</span>
+* **Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks**, Qingguo Qi, Hongyang Chen, Minhao Cheng, Han Liu. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025.*
+
+* **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In Transactions on Machine Learning Research (TMLR), 2024. (a short version appears in NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022)* 
+
+* **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense**, Rui Min\*, Zeyu Qin\*, Nevin L. Zhang, Li Shen, Minhao Cheng. *In Advances in Neural Information Processing Systems (NeurIPS), 2024.* <span style="color:orange">(Spotlight)</span>
 [[PDF](https://arxiv.org/pdf/2410.09838.pdf)] [[CODE](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
 
-* **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLMs Jailbreakers**, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.* [[PDF](https://arxiv.org/pdf/2402.16914.pdf)] [[CODE](https://github.com/xirui-li/DrAttack)]
+* **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLMs Jailbreakers**, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-Jui Hsieh. *In Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.* [[PDF](https://arxiv.org/pdf/2402.16914.pdf)] [[CODE](https://github.com/xirui-li/DrAttack)]
 
-* **GuardEmb: Dynamic Watermark for Safeguarding Large Language Model Embedding Service Against Model Stealing Attack**, Liaoyaqi Wang, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.* [[PDF](https://cmhcbb.github.io/files/GuardEmb.pdf)] [[CODE](https://github.com/Melodramass/Dynamic-Watermark)]
+* **GuardEmb: Dynamic Watermark for Safeguarding Large Language Model Embedding Service Against Model Stealing Attack**, Liaoyaqi Wang, Minhao Cheng. *In Conference on Empirical Methods in Natural Language Processing Findings (EMNLP-Findings) , 2024.* [[PDF](https://cmhcbb.github.io/files/GuardEmb.pdf)] [[CODE](https://github.com/Melodramass/Dynamic-Watermark)]
 
-* **Where Am I From? Identifying Origin of LLM-generated Content**, Liying Li, Yihan Bai, Minhao Cheng. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.* [[PDF](https://cmhcbb.github.io/files/LLM_watermark.pdf)] [[CODE](https://github.com/kushr11/llm-identify)]
+* **Where Am I From? Identifying Origin of LLM-generated Content**, Liying Li, Yihan Bai, Minhao Cheng. *In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.* [[PDF](https://cmhcbb.github.io/files/LLM_watermark.pdf)] [[CODE](https://github.com/kushr11/llm-identify)]
 
-* **Exploring Robustness of GNN against Universal Injection Attack From a Worst-case Perspective**, Dandan Ni, Sheng Zhang, Cong Deng, Han Liu, Gang Chen, Minhao Cheng and Hongyang Chen. *To appear in 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.*
+* **Exploring Robustness of GNN against Universal Injection Attack From a Worst-case Perspective**, Dandan Ni, Sheng Zhang, Cong Deng, Han Liu, Gang Chen, Minhao Cheng and Hongyang Chen. *In 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.*
 
 * **A Watermark-Conditioned Diffusion Model for IP Protection**, Rui Min, Sen Li, Hongyang Chen, Minhao Cheng. *In European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2403.10893.pdf)] [[CODE](https://github.com/rmin2000/WaDiff)]
 
@@ -107,8 +112,6 @@ Publications
 * **Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation**, Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang, *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.* [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Boosting_Accuracy_and_Robustness_of_Student_Models_via_Adaptive_Adversarial_CVPR_2023_paper.pdf)]
 
 * **FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning**, Yuanhao Xiong\*, Ruochen Wang\*, Minhao Cheng, Felix Yu, Cho-Jui Hsieh, *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.* [[PDF](https://arxiv.org/pdf/2207.09653.pdf)]
-
-* **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022.* 
 
 * **Defend Against Textual Backdoor Attacks By Token Substitution**,
 Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence Modeling, 2022.*

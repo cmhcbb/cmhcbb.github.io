@@ -95,7 +95,7 @@ Publications
 
 * **Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering**, Haosen Wang, Can Xu, Chenglong Shi, PengFei Zheng, Shiming Zhang, Minhao Cheng, Hongyang Chen. *In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024.* [[PDF](https://dl.acm.org/doi/pdf/10.1145/3637528.3671716)]
 
-* **One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**, Ruochen Wang\*, Sohyun An\*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh. *To appear in International Conference on Machine Learning (ICML), 2024.* [[PDF](https://arxiv.org/abs/2407.00256)] [[CODE](https://github.com/ruocwang/mixture-of-prompts)]
+* **One Prompt is not Enough: Automated Construction of a Mixture-of-Expert Prompts**, Ruochen Wang\*, Sohyun An\*, Minhao Cheng, Tianyi Zhou, Sung Ju Hwang, Cho-jui Hsieh. *In International Conference on Machine Learning (ICML), 2024.* [[PDF](https://arxiv.org/abs/2407.00256)] [[CODE](https://github.com/ruocwang/mixture-of-prompts)]
 
 * **Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective**, Kuan Li, Yiwen Chen, Yang Liu, Jin Wang, Qing He, Minhao Cheng, Xiang Ao. *In International Conference on Learning Representations (ICLR), 2024.* [[PDF](https://openreview.net/pdf?id=DCDT918ZkI)] [[CODE](https://github.com/likuanppd/GOOD-AT)]
 

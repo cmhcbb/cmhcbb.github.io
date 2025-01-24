@@ -74,6 +74,10 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?**, Xirui Li*, Hengguang Zhou*, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh. *To appear in  International Conference on Learning Representations (ICLR), 2025.* [[PDF](https://arxiv.org/pdf/2406.17224.pdf)] [[CODE](https://github.com/xirui-li/MOSSBench)]
+
+* **The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise**, Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, Minhao Cheng. *To appear in  International Conference on Learning Representations (ICLR), 2025.* 
+
 * **Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks**, Qingguo Qi, Hongyang Chen, Minhao Cheng, Han Liu. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025.*
 
 * **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In Transactions on Machine Learning Research (TMLR), 2024. (a short version appears in NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022)* 

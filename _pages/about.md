@@ -74,7 +74,7 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?**, Xirui Li*, Hengguang Zhou*, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh. *To appear in  International Conference on Learning Representations (ICLR), 2025.* [[PDF](https://arxiv.org/pdf/2406.17224.pdf)] [[CODE](https://github.com/xirui-li/MOSSBench)]
+* **MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?**, Xirui Li\*, Hengguang Zhou\*, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh. *To appear in  International Conference on Learning Representations (ICLR), 2025.* [[PDF](https://arxiv.org/pdf/2406.17224.pdf)] [[CODE](https://github.com/xirui-li/MOSSBench)]
 
 * **The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise**, Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, Minhao Cheng. *To appear in  International Conference on Learning Representations (ICLR), 2025.* 
 

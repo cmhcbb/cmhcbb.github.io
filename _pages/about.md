@@ -80,6 +80,8 @@ Publications
 
 * **Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks**, Qingguo Qi, Hongyang Chen, Minhao Cheng, Han Liu. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025.*
 
+* **Forecasting battery degradation trajectory under domain shift with domain generalization**, Ruifeng Tan, Xibin Lu, Minhao Cheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. * In Energy Storage Materials. * [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S2405829724005518)]
+
 * **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In Transactions on Machine Learning Research (TMLR), 2024. (a short version appears in NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022)* 
 
 * **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense**, Rui Min\*, Zeyu Qin\*, Nevin L. Zhang, Li Shen, Minhao Cheng. *In Advances in Neural Information Processing Systems (NeurIPS), 2024.* <span style="color:orange">(Spotlight)</span>

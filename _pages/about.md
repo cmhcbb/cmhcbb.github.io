@@ -38,6 +38,7 @@ Award
 
 Talks
 ======
+* Beyond Generation: Enabling Detection and Traceability in Large Language Models through Watermarking
 * [Post-Hoc Security in Machine Learning Systems](https://www.youtube.com/watch?v=e7WbjgaooOI&ab_channel=ISTatPENNSTATE)
 * [LLM security](https://cmhcbb.github.io/files/LLM_security.pdf)
 * [Towards Trustworthy Machine Learning: Training-time and Test-time Integrity](https://cmhcbb.github.io/files/CS_seminar.pdf)
@@ -74,9 +75,17 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?**, Xirui Li\*, Hengguang Zhou\*, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh. *To appear in  International Conference on Learning Representations (ICLR), 2025.* [[PDF](https://arxiv.org/pdf/2406.17806)] [[CODE](https://github.com/xirui-li/MOSSBench)]
+* **LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs – No Silver Bullet for LC or RAG Routing**, Kuan Li, Liwen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Shuai Wang, Minhao Cheng, *To appear in International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.09977)]
 
-* **The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise**, Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, Minhao Cheng. *To appear in  International Conference on Learning Representations (ICLR), 2025.* 
+* **Improving Your Model Ranking on Chatbot Arena by Vote Rigging**, Rui Min, Tianyu Pang, Chao Du, Qian Liu, Minhao Cheng, Min Lin, *To appear in International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2501.17858)]
+
+* **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**, Haoyu Wang\*, Zeyu Qin\*, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao, *To appear in International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.04040)]
+
+* **SeedLoRA: A Fusion Approach to Efficient LLM Fine-Tuning**, Yong Liu, Di Fu, Shenggan Cheng, Zirui Zhu, Yang Luo, Minhao Cheng, Cho-Jui Hsieh, Yang You, *To appear in International Conference on Machine Learning (ICML), 2025.*
+
+* **MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?**, Xirui Li\*, Hengguang Zhou\*, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh. *In  International Conference on Learning Representations (ICLR), 2025.* [[PDF](https://arxiv.org/pdf/2406.17806)] [[CODE](https://github.com/xirui-li/MOSSBench)]
+
+* **The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise**, Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, Minhao Cheng. *To appear in  International Conference on Learning Representations (ICLR), 2025.* [[PDF](https://openreview.net/pdf?id=GpdO9r73xT)] [[CODE](https://github.com/banyuanhao/diffusion-noise-detector)]
 
 * **Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks**, Qingguo Qi, Hongyang Chen, Minhao Cheng, Han Liu. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025.*
 

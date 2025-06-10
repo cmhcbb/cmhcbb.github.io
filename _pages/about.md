@@ -11,6 +11,8 @@ I am an assistant professor in the College of Information Sciences and Technolog
 
 News
 =====
+* [June 2025] We have also organized a [workshop on multimodal reasoning](https://knowledgemr-workshop.github.io/). Looking forward to your submissions!
+* [June 2025] We will give a [tutorial on multimodal reasoning](https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/) in CVPR 2025. 
 * [July 2024] We initiate [TurningPoint AI](https://www.turningpoint-ai.com/), a AIGC Research Collaboration group across different institutes. Check our recent amazing progress!
 * [Janaury 2024] <span style="color:blue"> I'm always looking for highly motivated students to join my group. Please email me if you are interested. </span>
 * [Janaury 2024] I will join College of Information Sciences and Technology at Penn State University in Spring 2024.
@@ -63,7 +65,7 @@ Current Students
 Alumni
 ======
 * Sen Li (MPhil @ HKUST CSE, Fall 2022 - Summer 2024)
-* Yize Cheng (UG @ HKUST, Fall 2022 - Winter 2023, Now PhD student @ University of Maryland) 
+* [Yize Cheng](https://chengez.github.io) (UG @ HKUST, Fall 2022 - Winter 2023, Now PhD student @ University of Maryland) 
 * Wenbin Hu (UG @ HKUST, Fall 2022 - Winter 2023) 
 * Yihan Bai (UG @ HKUST, Summer 2023 - Summer 2024) 
 * Liaoyaqi Wang (Research Intern, Summer 2023 - Spring 2024, Now Master student @ Johns Hopkins University)
@@ -75,6 +77,8 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**, Tianyu Yang, , Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang, *To appear in Proceedings of Association for Computational Linguistics (ACL), 2025.*
+
 * **LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs – No Silver Bullet for LC or RAG Routing**, Kuan Li, Liwen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Shuai Wang, Minhao Cheng, *To appear in International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.09977)]
 
 * **Improving Your Model Ranking on Chatbot Arena by Vote Rigging**, Rui Min, Tianyu Pang, Chao Du, Qian Liu, Minhao Cheng, Min Lin, *To appear in International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2501.17858)]
@@ -179,7 +183,7 @@ Xingling Li, Yao Li, Minhao Cheng *In NeurIPS Workshop on Robustness in Sequence
 
 Preprints
 ======
-* **Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection**, Yize Cheng, Wenbin Hu, Minhao Cheng. [[arXiv](https://browse.arxiv.org/pdf/2307.10487)]
+* **Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection**, Yize Cheng, Wenbin Hu, Minhao Cheng. [[arXiv](https://arxiv.org/abs/2307.10487)]
 
 * **Backdoor Learning on Sequence to Sequence Models**, Lichang Chen, Minhao Cheng, Heng Huang. [[arXiv](https://arxiv.org/abs/2305.02424)]
 

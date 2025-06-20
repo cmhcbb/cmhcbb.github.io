@@ -66,7 +66,7 @@ Alumni
 ======
 * Sen Li (MPhil @ HKUST CSE, Fall 2022 - Summer 2024)
 * [Yize Cheng](https://chengez.github.io) (UG @ HKUST, Fall 2022 - Winter 2023, Now PhD student @ University of Maryland) 
-* Wenbin Hu (UG @ HKUST, Fall 2022 - Winter 2023) 
+* Wenbin Hu (UG @ HKUST, Fall 2022 - Winter 2023, Now MPhil student @ HKUST) 
 * Yihan Bai (UG @ HKUST, Summer 2023 - Summer 2024) 
 * Liaoyaqi Wang (Research Intern, Summer 2023 - Spring 2024, Now Master student @ Johns Hopkins University)
 * Liying Li (Research Intern, Summer 2023 - Spring 2024, Now MPhil student @ Hong Kong Polytechnic University (PolyU))
@@ -83,7 +83,7 @@ Publications
 
 * **Improving Your Model Ranking on Chatbot Arena by Vote Rigging**, Rui Min, Tianyu Pang, Chao Du, Qian Liu, Minhao Cheng, Min Lin, *To appear in International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2501.17858)]
 
-* **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**, Haoyu Wang\*, Zeyu Qin\*, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao, *To appear in International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.04040)]
+* **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**, Haoyu Wang\*, Zeyu Qin\*, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng, *To appear in International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.04040)]
 
 * **SeedLoRA: A Fusion Approach to Efficient LLM Fine-Tuning**, Yong Liu, Di Fu, Shenggan Cheng, Zirui Zhu, Yang Luo, Minhao Cheng, Cho-Jui Hsieh, Yang You, *To appear in International Conference on Machine Learning (ICML), 2025.*
 
@@ -95,7 +95,7 @@ Publications
 
 * **Forecasting battery degradation trajectory under domain shift with domain generalization**, Ruifeng Tan, Xibin Lu, Minhao Cheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *In Energy Storage Materials.* [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S2405829724005518)]
 
-* **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In Transactions on Machine Learning Research (TMLR), 2024. (a short version appears in NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022)* 
+* **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In Transactions on Machine Learning Research (TMLR), 2024. (a short version appears in NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022)* [[PDF](https://openreview.net/pdf?id=r9eNUDe2im)]
 
 * **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense**, Rui Min\*, Zeyu Qin\*, Nevin L. Zhang, Li Shen, Minhao Cheng. *In Advances in Neural Information Processing Systems (NeurIPS), 2024.* <span style="color:orange">(Spotlight)</span>
 [[PDF](https://arxiv.org/pdf/2410.09838.pdf)] [[CODE](https://github.com/AISafety-HKUST/stable_backdoor_purification)]

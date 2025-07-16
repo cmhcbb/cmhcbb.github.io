@@ -77,7 +77,10 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**, Tianyu Yang, , Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang, *To appear in Proceedings of Association for Computational Linguistics (ACL), 2025.*
+* **Scaling Laws of Synthetic Data for Language Models**,
+Zeyu Qin, Qingxiu Dong, Xingxing Zhang , Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei *To appear in Conference on Language Modeling(COLM), 2025.* [[PDF](https://arxiv.org/pdf/2503.19551)]
+
+* **CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**, Tianyu Yang, , Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang, *To appear in Proceedings of Association for Computational Linguistics (ACL), 2025.* [[PDF](https://arxiv.org/pdf/2410.23330)]
 
 * **LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs – No Silver Bullet for LC or RAG Routing**, Kuan Li, Liwen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Shuai Wang, Minhao Cheng, *To appear in International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.09977)]
 

@@ -78,7 +78,7 @@ Publications
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
 * **Scaling Laws of Synthetic Data for Language Models**,
-Zeyu Qin, Qingxiu Dong, Xingxing Zhang , Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei *To appear in Conference on Language Modeling(COLM), 2025.* [[PDF](https://arxiv.org/pdf/2503.19551)]
+Zeyu Qin, Qingxiu Dong, Xingxing Zhang , Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei, *To appear in Conference on Language Modeling (COLM), 2025.* [[PDF](https://arxiv.org/pdf/2503.19551)]
 
 * **CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**, Tianyu Yang, , Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang, *To appear in Proceedings of Association for Computational Linguistics (ACL), 2025.* [[PDF](https://arxiv.org/pdf/2410.23330)]
 
@@ -94,7 +94,7 @@ Zeyu Qin, Qingxiu Dong, Xingxing Zhang , Li Dong, Xiaolong Huang, Ziyi Yang, Mah
 
 * **The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise**, Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, Minhao Cheng. *To appear in  International Conference on Learning Representations (ICLR), 2025.* [[PDF](https://openreview.net/pdf?id=GpdO9r73xT)] [[CODE](https://github.com/banyuanhao/diffusion-noise-detector)]
 
-* **Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks**, Qingguo Qi, Hongyang Chen, Minhao Cheng, Han Liu. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025.*
+* **Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks**, Qingguo Qi, Hongyang Chen, Minhao Cheng, Han Liu. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025.* [[PDF](https://arxiv.org/pdf/2405.06975)]
 
 * **Forecasting battery degradation trajectory under domain shift with domain generalization**, Ruifeng Tan, Xibin Lu, Minhao Cheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *In Energy Storage Materials.* [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S2405829724005518)]
 
@@ -109,7 +109,7 @@ Zeyu Qin, Qingxiu Dong, Xingxing Zhang , Li Dong, Xiaolong Huang, Ziyi Yang, Mah
 
 * **Where Am I From? Identifying Origin of LLM-generated Content**, Liying Li, Yihan Bai, Minhao Cheng. *In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024.* [[PDF](https://cmhcbb.github.io/files/LLM_watermark.pdf)] [[CODE](https://github.com/kushr11/llm-identify)]
 
-* **Exploring Robustness of GNN against Universal Injection Attack From a Worst-case Perspective**, Dandan Ni, Sheng Zhang, Cong Deng, Han Liu, Gang Chen, Minhao Cheng and Hongyang Chen. *In 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.*
+* **Exploring Robustness of GNN against Universal Injection Attack From a Worst-case Perspective**, Dandan Ni, Sheng Zhang, Cong Deng, Han Liu, Gang Chen, Minhao Cheng and Hongyang Chen. *In 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.* [[PDF](https://dl.acm.org/doi/pdf/10.1145/3627673.3679862)]
 
 * **A Watermark-Conditioned Diffusion Model for IP Protection**, Rui Min, Sen Li, Hongyang Chen, Minhao Cheng. *In European Conference on Computer Vision (ECCV), 2024.* [[PDF](https://arxiv.org/abs/2403.10893.pdf)] [[CODE](https://github.com/rmin2000/WaDiff)]
 

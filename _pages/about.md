@@ -91,7 +91,7 @@ Publications
 
 * **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**, Haoyu Wang\*, Zeyu Qin\*, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng, *In International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.04040)]
 
-* **SeedLoRA: A Fusion Approach to Efficient LLM Fine-Tuning**, Yong Liu, Di Fu, Shenggan Cheng, Zirui Zhu, Yang Luo, Minhao Cheng, Cho-Jui Hsieh, Yang You, *In International Conference on Machine Learning (ICML), 2025.*
+* **SeedLoRA: A Fusion Approach to Efficient LLM Fine-Tuning**, Yong Liu, Di Fu, Shenggan Cheng, Zirui Zhu, Yang Luo, Minhao Cheng, Cho-Jui Hsieh, Yang You, *In International Conference on Machine Learning (ICML), 2025.* [[PDF](https://openreview.net/attachment?id=7QH48TtFZX&name=pdf)]
 
 * **MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?**, Xirui Li\*, Hengguang Zhou\*, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh. *In  International Conference on Learning Representations (ICLR), 2025.* [[PDF](https://arxiv.org/pdf/2406.17806)] [[CODE](https://github.com/xirui-li/MOSSBench)]
 
@@ -99,7 +99,7 @@ Publications
 
 * **Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks**, Qingguo Qi, Hongyang Chen, Minhao Cheng, Han Liu. *To appear in ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025.* [[PDF](https://arxiv.org/pdf/2405.06975)]
 
-* **Forecasting battery degradation trajectory under domain shift with domain generalization**, Ruifeng Tan, Xibin Lu, Minhao Cheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *In Energy Storage Materials.* [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S2405829724005518)]
+* **Forecasting battery degradation trajectory under domain shift with domain generalization**, Ruifeng Tan, Xibin Lu, Minhao Cheng, Jia Li, Jiaqiang Huang, Tong-Yi Zhang. *In Energy Storage Materials, 2024.* [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S2405829724005518)]
 
 * **Trusted Aggregation (TAG): Model Filtering Backdoor Defense In Federated Learning**, Joseph Lavond, Minhao Cheng, Yao Li, *In Transactions on Machine Learning Research (TMLR), 2024. (a short version appears in NeurIPS Workshop on Federated Learning: Recent Advances and New Challenges, 2022)* [[PDF](https://openreview.net/pdf?id=r9eNUDe2im)]
 

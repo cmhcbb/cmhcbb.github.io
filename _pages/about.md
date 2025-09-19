@@ -79,6 +79,10 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **Sparse MeZO: Less Parameters for Better Performance in Zeroth-Order LLM Fine-Tuning**, Yong Liu, Zirui Zhu, Chaoyu Gong, Minhao Cheng, Cho-Jui Hsieh, Yang You. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2025.* 
+
+* **Practical and Effective Code Watermarking for Large Language Models**, Zhimeng Guo, Minhao Cheng. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2025.* 
+
 * **Defense Against Syntactic Textual Backdoor Attacks with Token Substitution**, Xianwen He, Xinglin Li, Yao Li, and Minhao Cheng. *To appear in IEEE Transactions on Information Forensics and Security (T-IFS), 2025. (a short version appears in NeurIPS Workshop on Robustness in Sequence Modeling, 2022)*
 
 * **Scaling Laws of Synthetic Data for Language Models**, Zeyu Qin, Qingxiu Dong, Xingxing Zhang , Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei, *To appear in Conference on Language Modeling (COLM), 2025.* [[PDF](https://arxiv.org/pdf/2503.19551)]

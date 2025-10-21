@@ -72,7 +72,7 @@ Alumni
 * Yihan Bai (UG @ HKUST, Summer 2023 - Summer 2024) 
 * Liaoyaqi Wang (Research Intern, Summer 2023 - Spring 2024, Now Master student @ Johns Hopkins University)
 * Liying Li (Research Intern, Summer 2023 - Spring 2024, Now MPhil student @ Hong Kong Polytechnic University (PolyU))
-* [Jaechual Roh](https://www.jrohs.com/) (UG @ HKUST, Winter 2022 - Spring 2022, Now PhD student @ UMass Amherst) 
+* [Jaechual Roh](https://jrohsc.github.io/) (UG @ HKUST, Winter 2022 - Spring 2022, Now PhD student @ UMass Amherst) 
 
 
 Publications

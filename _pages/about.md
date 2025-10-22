@@ -48,7 +48,7 @@ Talks
 
 Teaching
 ======
-<!-- * [Spring 2026] IST 597: Trustworthy Machine Learning -->
+* [Spring 2026] IST 597: Trustworthy Machine Learning
 * [Fall 2025] [IST 815: Foundations of Information Security and Assurance](https://cmhcbb.github.io/teaching/ist815f25.html)
 * [Fall 2024] CYBER 362: Cybersecurity Analytics Studio
 * [Spring 2024] CYBER 362: Cybersecurity Analytics Studio

@@ -48,7 +48,7 @@ Talks
 
 Teaching
 ======
-* [Spring 2026] IST 597: Trustworthy Machine Learning
+* [Spring 2026] CYBER 362: Cybersecurity Analytics Studio
 * [Fall 2025] [IST 815: Foundations of Information Security and Assurance](https://cmhcbb.github.io/teaching/ist815f25.html)
 * [Fall 2024] CYBER 362: Cybersecurity Analytics Studio
 * [Spring 2024] CYBER 362: Cybersecurity Analytics Studio
@@ -79,21 +79,30 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **Sparse MeZO: Less Parameters for Better Performance in Zeroth-Order LLM Fine-Tuning**, Yong Liu, Zirui Zhu, Chaoyu Gong, Minhao Cheng, Cho-Jui Hsieh, Yang You. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2025.* 
+* **A Survey of Multimodal Mathematical Reasoning: From Perception,Alignment to Reasoning**,
+Tianyu Yang, Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang. * *To appear In Proceedings of Association for Computational Linguistics (ACL), 2026.*
 
-* **Practical and Effective Code Watermarking for Large Language Models**, Zhimeng Guo, Minhao Cheng. *To appear in Advances in Neural Information Processing Systems (NeurIPS), 2025.* 
+* **Empowering Reliable Visual-Centric Instruction Following in MLLMs**,
+Weilei He, Feng Ju, Zhiyuan Fan, Rui Min, Minhao Cheng, Yi R. Fung. * *To appear In Proceedings of Association for Computational Linguistics Findings (ACL-Findings), 2026.*
 
-* **Defense Against Syntactic Textual Backdoor Attacks with Token Substitution**, Xianwen He, Xinglin Li, Yao Li, and Minhao Cheng. *To appear in IEEE Transactions on Information Forensics and Security (T-IFS), 2025. (a short version appears in NeurIPS Workshop on Robustness in Sequence Modeling, 2022)*
+* **WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning**, Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Yida Zhao, Liwen Zhang, Litu Ou, Ding-Chu Zhang, Xixi Wu, Xinmiao Yu, Jialong Wu, Xinyu Wang, Zile Qiao, Zhen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Zhi-Qin John Xu, Shuai Wang, Minhao Cheng, Jingren Zhou. * To appear in International Conference on Learning Representations (ICLR), 2026.*
+
+
+* **Sparse MeZO: Less Parameters for Better Performance in Zeroth-Order LLM Fine-Tuning**, Yong Liu, Zirui Zhu, Chaoyu Gong, Minhao Cheng, Cho-Jui Hsieh, Yang You. *In Advances in Neural Information Processing Systems (NeurIPS), 2025.* 
+
+* **Practical and Effective Code Watermarking for Large Language Models**, Zhimeng Guo, Minhao Cheng. *In Advances in Neural Information Processing Systems (NeurIPS), 2025.* 
+
+* **Defense Against Syntactic Textual Backdoor Attacks with Token Substitution**, Xianwen He, Xinglin Li, Yao Li, and Minhao Cheng. *In IEEE Transactions on Information Forensics and Security (T-IFS), 2025. (a short version appears in NeurIPS Workshop on Robustness in Sequence Modeling, 2022)*
 
 * **Scaling Laws of Synthetic Data for Language Models**, Zeyu Qin, Qingxiu Dong, Xingxing Zhang , Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei, *To appear in Conference on Language Modeling (COLM), 2025.* [[PDF](https://arxiv.org/pdf/2503.19551)]
 
-* **CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**, Tianyu Yang, , Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang, *In Proceedings of Association for Computational Linguistics (ACL), 2025.* [[PDF](https://arxiv.org/pdf/2410.23330)]
+* **CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**, Tianyu Yang, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang, *In Proceedings of Association for Computational Linguistics (ACL), 2025.* [[PDF](https://arxiv.org/pdf/2410.23330)]
 
 * **LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs – No Silver Bullet for LC or RAG Routing**, Kuan Li, Liwen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Shuai Wang, Minhao Cheng, *In International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.09977)]
 
 * **Improving Your Model Ranking on Chatbot Arena by Vote Rigging**, Rui Min, Tianyu Pang, Chao Du, Qian Liu, Minhao Cheng, Min Lin, *In International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2501.17858)]
 
-* **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**, Haoyu Wang\*, Zeyu Qin\*, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng, *In International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.04040)]
+* **Safety Reasoning with Guidelines**, Haoyu Wang\*, Zeyu Qin\*, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng, *In International Conference on Machine Learning (ICML), 2025.* [[PDF](https://arxiv.org/pdf/2502.04040)]
 
 * **SeedLoRA: A Fusion Approach to Efficient LLM Fine-Tuning**, Yong Liu, Di Fu, Shenggan Cheng, Zirui Zhu, Yang Luo, Minhao Cheng, Cho-Jui Hsieh, Yang You, *In International Conference on Machine Learning (ICML), 2025.* [[PDF](https://openreview.net/attachment?id=7QH48TtFZX&name=pdf)]
 

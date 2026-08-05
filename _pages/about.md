@@ -81,7 +81,7 @@ Publications
 \* denote equal contribution
 * **optimizing Token Choice for Code Watermarking: An RL Approach**, Zhimeng Guo, Huaisheng Zhu, Siyuan Xu, Hangfan Zhang, Teng Xiao, Minhao Cheng. * *In International Conference on Machine Learning (ICML), 2026.*
 
-Tianyu Yang, Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang. * *In Proceedings of Association for Computational Linguistics (ACL), 2026.*
+* **A Survey of Multimodal Mathematical Reasoning: From Perception,Alignment to Reasoning**, Tianyu Yang, Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang. * *In Proceedings of Association for Computational Linguistics (ACL), 2026.*
 
 * **Empowering Reliable Visual-Centric Instruction Following in MLLMs**,
 Weilei He, Feng Ju, Zhiyuan Fan, Rui Min, Minhao Cheng, Yi R. Fung. * *In Proceedings of Association for Computational Linguistics Findings (ACL-Findings), 2026.*

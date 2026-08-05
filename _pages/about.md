@@ -79,13 +79,14 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
-* **A Survey of Multimodal Mathematical Reasoning: From Perception,Alignment to Reasoning**,
-Tianyu Yang, Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang. * *To appear In Proceedings of Association for Computational Linguistics (ACL), 2026.*
+* **optimizing Token Choice for Code Watermarking: An RL Approach**, Zhimeng Guo, Huaisheng Zhu, Siyuan Xu, Hangfan Zhang, Teng Xiao, Minhao Cheng. * *In International Conference on Machine Learning (ICML), 2026.*
+
+Tianyu Yang, Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang. * *In Proceedings of Association for Computational Linguistics (ACL), 2026.*
 
 * **Empowering Reliable Visual-Centric Instruction Following in MLLMs**,
-Weilei He, Feng Ju, Zhiyuan Fan, Rui Min, Minhao Cheng, Yi R. Fung. * *To appear In Proceedings of Association for Computational Linguistics Findings (ACL-Findings), 2026.*
+Weilei He, Feng Ju, Zhiyuan Fan, Rui Min, Minhao Cheng, Yi R. Fung. * *In Proceedings of Association for Computational Linguistics Findings (ACL-Findings), 2026.*
 
-* **WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning**, Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Yida Zhao, Liwen Zhang, Litu Ou, Ding-Chu Zhang, Xixi Wu, Xinmiao Yu, Jialong Wu, Xinyu Wang, Zile Qiao, Zhen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Zhi-Qin John Xu, Shuai Wang, Minhao Cheng, Jingren Zhou. * To appear in International Conference on Learning Representations (ICLR), 2026.*
+* **WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning**, Kuan Li, Zhongwang Zhang, Huifeng Yin, Rui Ye, Yida Zhao, Liwen Zhang, Litu Ou, Ding-Chu Zhang, Xixi Wu, Xinmiao Yu, Jialong Wu, Xinyu Wang, Zile Qiao, Zhen Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Zhi-Qin John Xu, Shuai Wang, Minhao Cheng, Jingren Zhou. *In International Conference on Learning Representations (ICLR), 2026.*
 
 
 * **Sparse MeZO: Less Parameters for Better Performance in Zeroth-Order LLM Fine-Tuning**, Yong Liu, Zirui Zhu, Chaoyu Gong, Minhao Cheng, Cho-Jui Hsieh, Yang You. *In Advances in Neural Information Processing Systems (NeurIPS), 2025.* 

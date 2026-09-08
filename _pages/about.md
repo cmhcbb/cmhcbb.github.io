@@ -79,6 +79,10 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization**, Runpeng Geng, Yanting Wang, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026.*
+
+* **CARV: A Diagnostic Benchmark for Compositional Analogical Reasoning in Multimodal LLMs**, Yongkang Du, Xiaohan Zou, Minhao Cheng, Lu Lin. *To appear in Conference on Language Modeling (COLM), 2026.*
+
 * **Optimizing Token Choice for Code Watermarking: An RL Approach**, Zhimeng Guo, Huaisheng Zhu, Siyuan Xu, Hangfan Zhang, Teng Xiao, Minhao Cheng. *In International Conference on Machine Learning (ICML), 2026.*
 
 * **A Survey of Multimodal Mathematical Reasoning: From Perception,Alignment to Reasoning**, Tianyu Yang, Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang. *In Proceedings of Association for Computational Linguistics (ACL), 2026.*
@@ -95,7 +99,7 @@ Weilei He, Feng Ju, Zhiyuan Fan, Rui Min, Minhao Cheng, Yi R. Fung. *In Proceedi
 
 * **Defense Against Syntactic Textual Backdoor Attacks with Token Substitution**, Xianwen He, Xinglin Li, Yao Li, and Minhao Cheng. *In IEEE Transactions on Information Forensics and Security (T-IFS), 2025. (a short version appears in NeurIPS Workshop on Robustness in Sequence Modeling, 2022)*
 
-* **Scaling Laws of Synthetic Data for Language Models**, Zeyu Qin, Qingxiu Dong, Xingxing Zhang , Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei, *To appear in Conference on Language Modeling (COLM), 2025.* [[PDF](https://arxiv.org/pdf/2503.19551)]
+* **Scaling Laws of Synthetic Data for Language Models**, Zeyu Qin, Qingxiu Dong, Xingxing Zhang , Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei, *In Conference on Language Modeling (COLM), 2025.* [[PDF](https://arxiv.org/pdf/2503.19551)]
 
 * **CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**, Tianyu Yang, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang, *In Proceedings of Association for Computational Linguistics (ACL), 2025.* [[PDF](https://arxiv.org/pdf/2410.23330)]
 

@@ -79,6 +79,10 @@ Publications
 ======
 <!-- [→ Full list](/projects/) -->
 \* denote equal contribution
+* **Scalable Token-Level Hallucination Detection in Large Language Models**, Rui Min, Tianyu Pang, Chao Du, Minhao Cheng, Yi R. Fung. *To appear in Neural Information Processing Systems (NeurIPS), 2026.*
+
+* **POME: Post Optimization Model Edit via Muon-Style Projection**, Yong Liu, Di Fu, Yang Luo, Zirui Zhu, Minhao Cheng, Cho-Jui Hsieh, Yang You. *To appear in Neural Information Processing Systems (NeurIPS), 2026.*
+
 * **PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization**, Runpeng Geng, Yanting Wang, Chenlong Yin, Minhao Cheng, Ying Chen, Jinyuan Jia. *To appear in Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026.*
 
 * **CARV: A Diagnostic Benchmark for Compositional Analogical Reasoning in Multimodal LLMs**, Yongkang Du, Xiaohan Zou, Minhao Cheng, Lu Lin. *To appear in Conference on Language Modeling (COLM), 2026.*

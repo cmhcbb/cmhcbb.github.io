@@ -89,6 +89,8 @@ Publications
 
 * **Optimizing Token Choice for Code Watermarking: An RL Approach**, Zhimeng Guo, Huaisheng Zhu, Siyuan Xu, Hangfan Zhang, Teng Xiao, Minhao Cheng. *In International Conference on Machine Learning (ICML), 2026.*
 
+* **FedDecay: Balancing Model Performance and Rapid Personalization in Federated Learning with Learning Rate Scheduling.** Joseph Lavond, Minhao Cheng, Yao Li. *In Journal of Computational and Graphical Statistics, 2026*.
+
 * **A Survey of Multimodal Mathematical Reasoning: From Perception,Alignment to Reasoning**, Tianyu Yang, Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang. *In Proceedings of Association for Computational Linguistics (ACL), 2026.*
 
 * **Empowering Reliable Visual-Centric Instruction Following in MLLMs**,
